@@ -1,0 +1,498 @@
+itemGroup.JRMCore=Jin Ryuu的mod核心
+itemGroup.jrhc=Jin Ryuu的发型C
+jinryuujrmcore.RemoveHair=移除自定义的头发
+
+jinryuujrmcore.News=新闻
+jinryuujrmcore.Update=升级
+jinryuujrmcore.Server=服务器
+
+jinryuujrmcore.Main=主线
+jinryuujrmcore.Side=支线
+jinryuujrmcore.Group=组队
+
+jinryuujrmcore.CoreServerConfigurations=核心服务器配置
+jinryuujrmcore.Disabled=禁用
+jinryuujrmcore.Enabled=启用
+jinryuujrmcore.EnergyRegeneration=控制
+jinryuujrmcore.HealthRegeneration=控制
+jinryuujrmcore.PowerRelease=控制
+jinryuujrmcore.EnergyCharge=控制
+jinryuujrmcore.ExpirienceGain=控制
+jinryuujrmcore.TrainingPointGain=控制
+jinryuujrmcore.AttributeUpgradeType=属性升级类型
+jinryuujrmcore.AttributeBasedSizeChange=控制
+jinryuujrmcore.Explosions=控制
+jinryuujrmcore.Speed=速度
+jinryuujrmcore.Off=关闭
+jinryuujrmcore.selectpwratcreator=在角色创建时选择力量类型
+jinryuujrmcore.On=反对
+jinryuujrmcore.OK=同意
+jinryuujrmcore.Select=选择
+jinryuujrmcore.Planet=行星
+jinryuujrmcore.Destinations=目的地
+
+jinryuujrmcore.OnDynamic=动力
+jinryuujrmcore.OnSimple=简单
+
+jinryuujrmcore.Human=人类
+jinryuujrmcore.Saiyan=赛亚人
+jinryuujrmcore.Half-Saiyan=混血赛亚人
+jinryuujrmcore.Namekian=那美克星人
+jinryuujrmcore.Arcosian=冰冻恶魔
+
+jinryuujrmcore.Race=种族
+jinryuujrmcore.Gender=性别
+jinryuujrmcore.Hair=头发
+jinryuujrmcore.Style=风格
+jinryuujrmcore.Color=颜色
+jinryuujrmcore.Tail=尾巴
+jinryuujrmcore.PowerType=力量类型
+jinryuujrmcore.Years=年龄
+jinryuujrmcore.Child=孩子
+jinryuujrmcore.Teen=幼年
+jinryuujrmcore.YoungAdult=青年
+jinryuujrmcore.Adult=成年
+jinryuujrmcore.MiddleAged=中年
+jinryuujrmcore.Senior=老年
+
+jinryuujrmcore.Appearance=外貌
+jinryuujrmcore.Enable=开启
+jinryuujrmcore.Disable=关闭
+jinryuujrmcore.DefaultSkin=默认皮肤
+jinryuujrmcore.CustomSkin=自定义皮肤
+jinryuujrmcore.BodyType=体格
+jinryuujrmcore.Nose=鼻子
+jinryuujrmcore.Mouth=嘴巴
+jinryuujrmcore.Eyes=眼睛
+jinryuujrmcore.Match=匹配
+jinryuujrmcore.CustomHair=自定义头发
+jinryuujrmcore.BaseHair=基础发型
+jinryuujrmcore.Reset=重置
+jinryuujrmcore.Yaw=左右旋转
+jinryuujrmcore.Pitch=上下旋转
+jinryuujrmcore.Share=分配
+jinryuujrmcore.Copy=复制
+jinryuujrmcore.Paste=粘贴
+jinryuujrmcore.Done=完成
+jinryuujrmcore.Revert=复原
+jinryuujrmcore.FrontHead=前
+jinryuujrmcore.RightHead=右
+jinryuujrmcore.LeftHead=左
+jinryuujrmcore.BackHead=后
+jinryuujrmcore.TopHead=上
+jinryuujrmcore.Preset=预设
+jinryuujrmcore.SavePreset=存为预设
+jinryuujrmcore.DelPreset=删除预设
+jinryuujrmcore.hairRotations=旋转
+jinryuujrmcore.hairXaxis=X-轴
+jinryuujrmcore.hairYaxis=Y-轴
+jinryuujrmcore.hairZaxis=Z-轴
+jinryuujrmcore.hairLength=发长
+jinryuujrmcore.hairBend=弯曲
+jinryuujrmcore.hairBendpoint=弯曲点
+jinryuujrmcore.hairTransf=DBC形状变化强度
+jinryuujrmcore.hairTier=级
+jinryuujrmcore.hairTierDesc=一级选项是旋转和长度，二级选项的弯曲性能和DBC形状变化
+jinryuujrmcore.hairHide=隐藏头发组
+jinryuujrmcore.hairShow=显示头发组
+jinryuujrmcore.hairReset=重置
+jinryuujrmcore.hairDoAllOn=重置模式开启
+jinryuujrmcore.hairDoAllDesc=将这些改变复制到每一个页面
+jinryuujrmcore.hairDoAllOff=重置模式关闭
+jinryuujrmcore.Preview=预览
+jinryuujrmcore.HairSalon=发廊
+jinryuujrmcore.HairSalonDesc=It will open the HairSalon site where you can browse hairstyles from other users at http://HairSalon.jingames.net
+jinryuujrmcore.HairShareDesc=It will copy your current hairstyle code to clipboard to share with others, mainly meant for the http://HairSalon.jingames.net site
+jinryuujrmcore.HairPasteDesc=It will paste a hairstyle code from clipboard
+jinryuujrmcore.HairResetDesc=It will reset the current hairstyle to the hairstyle preset currently selected
+
+jinryuujrmcore.Male=男
+jinryuujrmcore.Female=女
+
+jinryuujrmcore.SwordArt=剑的艺术
+
+jinryuujrmcore.Natural=一般
+jinryuujrmcore.Ki=气
+jinryuujrmcore.Chakra=查克拉
+jinryuujrmcore.NaturalDesc=无能力
+jinryuujrmcore.KiDesc=龙珠能力
+jinryuujrmcore.ChakraDesc=火影能力
+
+jinryuujrmcore.Survival=生存
+jinryuujrmcore.SurvivalDesc=原版生存
+jinryuujrmcore.MartialArtist=武道家
+jinryuujrmcore.Spiritualist=气功师
+jinryuujrmcore.Warrior=格斗家
+jinryuujrmcore.MartialArtistDesc=平衡 §c攻击 §8和 §9气功 §8修炼
+jinryuujrmcore.SpiritualistDesc=偏向§9气功 §8威力
+jinryuujrmcore.WarriorDesc=偏向§c近身 §8威力
+
+jinryuujrmcore.Clanless=其他
+jinryuujrmcore.Hyuuga=日向
+jinryuujrmcore.Uchiha=宇智波
+jinryuujrmcore.ClanlessDesc=其他家族
+jinryuujrmcore.HyuugaDesc=日向家族
+jinryuujrmcore.UchihaDesc=宇智波家族
+
+jinryuujrmcore.Class=职业
+jinryuujrmcore.Clan=家族
+jinryuujrmcore.Super=超级赛亚人
+jinryuujrmcore.Normal=普通
+jinryuujrmcore.Hard=困难
+jinryuujrmcore.Insane=疯狂
+jinryuujrmcore.NormalDesc=死亡不会受到惩罚,训练点增益是 is %1$s
+jinryuujrmcore.HardDesc=死亡惩罚 (随机一个属性失去1点), %1$s 训练点收益
+jinryuujrmcore.InsaneDesc=死亡惩罚 (随机两个属性失去1点), %1$s 训练点收益
+
+jinryuujrmcore.TRState=目前形态
+jinryuujrmcore.Base=原形态
+jinryuujrmcore.HForm1=潜力释放
+jinryuujrmcore.HForm2=肌肉强化
+jinryuujrmcore.HFormG=神形态
+jinryuujrmcore.Super=超级赛亚人
+jinryuujrmcore.SuperG2=超级赛亚人1:2阶
+jinryuujrmcore.SuperG3=超级赛亚人1:3阶
+jinryuujrmcore.SuperFP=超级赛亚人1全功率
+jinryuujrmcore.Super2=超级赛亚人2
+jinryuujrmcore.Super3=超级赛亚人3
+jinryuujrmcore.NForm1=潜力释放
+jinryuujrmcore.NForm2=巨人
+jinryuujrmcore.NFormG=神形态
+jinryuujrmcore.Form0=最低形态
+jinryuujrmcore.Form1=第一形态
+jinryuujrmcore.Form2=第二形态
+jinryuujrmcore.Form3=第三形态
+jinryuujrmcore.Form5=超级形态
+jinryuujrmcore.Form6=最终形态
+jinryuujrmcore.FormG=神形态
+jinryuujrmcore.Oozaru=赛亚巨猿
+jinryuujrmcore.OozaruS=黄金巨猿
+jinryuujrmcore.SuperG=超级赛亚人之神
+jinryuujrmcore.SuperGR=神仪式
+jinryuujrmcore.SuperB=超级赛亚人蓝
+jinryuujrmcore.SuperR=超级赛亚人桃红
+jinryuujrmcore.PotUnleashed=魔人
+jinryuujrmcore.SuperL=超级赛亚人绿
+jinryuujrmcore.SuperLB=超级赛亚人绿满功率
+
+jinryuujrmcore.UCnam=属性升级费用
+
+jinryuujrmcore.Modified=增强
+jinryuujrmcore.Original=原来
+jinryuujrmcore.Strength=力量
+jinryuujrmcore.Dexterity=灵巧
+jinryuujrmcore.Constitution=体魄
+jinryuujrmcore.WillPower=意志
+jinryuujrmcore.Mind=心灵
+jinryuujrmcore.Spirit=精神
+jinryuujrmcore.Concentration=专注
+
+jinryuujrmcore.StrMC=增加近战伤害
+jinryuujrmcore.DexMC=增加移动速度
+jinryuujrmcore.ConMC=增加生命上限
+
+jinryuujrmcore.StrDB=增加近战伤害
+jinryuujrmcore.DexDB=增加防御和移动速度
+jinryuujrmcore.ConDB=增加体力和耐力
+jinryuujrmcore.WilDB=增加气(能量)伤害
+jinryuujrmcore.MndDB=提高飞行速度和增加技能槽,增加训练点收益
+jinryuujrmcore.SpiDB=提高气(能量)的上限
+
+jinryuujrmcore.StrNC=体术伤害
+jinryuujrmcore.DexNC=体术速度
+jinryuujrmcore.ConNC=身体极限,速度和体形
+jinryuujrmcore.WilNC=忍术的控制与输出
+jinryuujrmcore.MndNC=提升查克拉量
+jinryuujrmcore.SpiNC=增加技能槽
+
+jinryuujrmcore.Stats1Body=身体
+jinryuujrmcore.Stats2Speed=速度
+jinryuujrmcore.Stats3Stamina=耐力
+jinryuujrmcore.Stats4Max=气的上限
+jinryuujrmcore.Stats5Control=气的控制
+jinryuujrmcore.Stats6Regen=气的恢复速度
+jinryuujrmcore.Stats7Defense=防御
+jinryuujrmcore.Stats8Melee=近战伤害
+
+jinryuujrmcore.NCStats1Body=体力
+jinryuujrmcore.NCStats2Speed=速度
+jinryuujrmcore.NCStats3Stamina=毅力
+jinryuujrmcore.NCStats4Max=查克拉量
+jinryuujrmcore.NCStats5Control=查克拉控制
+jinryuujrmcore.NCStats6Regen=查克拉恢复速度
+
+jinryuujrmcore.Level=等级
+jinryuujrmcore.LevelNext=再增加 %1$s 次属性升级
+jinryuujrmcore.LevelMax=到达了最高等级!
+jinryuujrmcore.Alignment=善恶
+jinryuujrmcore.AlignmentDesc=你有 %1$s 善念 /n更多内容即将推出
+jinryuujrmcore.SkillSysNext=属性 %1$s 需要学习或提高技能!/n技能学习: %2$s
+jinryuujrmcore.SkillSysMax=你的心灵已达到极限!/n技能学习: %1$s
+
+jinryuujrmcore.needRacialSkillMax=你需要把你的种族技能升到满级!
+jinryuujrmcore.cantLearnThis=你不能学习这个!
+jinryuujrmcore.Good=善良
+jinryuujrmcore.Neutral=中立
+jinryuujrmcore.Evil=邪恶
+jinryuujrmcore.Max=Max
+jinryuujrmcore.Current=当前
+jinryuujrmcore.PunchDamage=穿透伤害
+jinryuujrmcore.meleeDamage=近战伤害
+jinryuujrmcore.NeedToBeGood=需要 100%% 善念! 
+
+jinryuujrmcore.skilldisabled=技能被禁用!
+jinryuujrmcore.specskilldisabled=技能 %1$s 被禁用!
+
+jinryuujrmcore.mleMC=近战伤害
+jinryuujrmcore.DefMC=防御
+jinryuujrmcore.heltMC=体力
+
+jinryuujrmcore.mleNC=近战伤害
+jinryuujrmcore.DefNC=防御
+jinryuujrmcore.BdNC=体力
+jinryuujrmcore.StNC=耐力
+jinryuujrmcore.EnPwNC=查克拉输出
+jinryuujrmcore.EnPlNC=查克拉量
+jinryuujrmcore.MxSkNC=最大技能
+jinryuujrmcore.SpNC=速度
+jinryuujrmcore.RBNC=身体恢复率
+jinryuujrmcore.RSNC=体力恢复率
+jinryuujrmcore.RENC=查克拉恢复率
+
+jinryuujrmcore.mleDB=近战伤害
+jinryuujrmcore.DefDB=身体强度
+jinryuujrmcore.BdDB=血量
+jinryuujrmcore.StDB=耐力
+jinryuujrmcore.EnPwDB=气的伤害
+jinryuujrmcore.EnPlDB=气的上限
+jinryuujrmcore.MxSkDB=最大技能
+jinryuujrmcore.SpDB=奔跑
+jinryuujrmcore.RBDB=身体恢复速度
+jinryuujrmcore.RSDB=体力恢复速度
+jinryuujrmcore.REDB=气的回复速度
+jinryuujrmcore.FSDB=飞行
+jinryuujrmcore.Stats=统计
+jinryuujrmcore.StatIncreaseDesc=§8增加 §c%1$s §8属性 将 增加这一属性的 §9%2$s
+jinryuujrmcore.StatIncreaseDesc2=/n§8在释放最大状态 §c%3$s §8
+jinryuujrmcore.StatIncreaseDesc3=/n§8被动输出 %4$s
+jinryuujrmcore.StatIncreaseDesc4=/n§8额外输出 §5+%5$s §8
+jinryuujrmcore.SpDBDesc=最大速度可达到 %1$s 块/分钟 /升级 %2$s 属性和 %3$s 技能会提高速度
+jinryuujrmcore.FSDBDesc=最大飞行速度可达到 %1$s 块/分钟 /升级 %2$s 属性和 %3$s 技能会提高
+jinryuujrmcore.Attributes=属性
+jinryuujrmcore.StartAttr=启动属性
+jinryuujrmcore.TP=技能点
+jinryuujrmcore.TrainingPoints=当前技能点
+jinryuujrmcore.RequiredTP=所需 %1$s 技能点升级
+jinryuujrmcore.AttributeMaxed=这个属性已经满级!
+jinryuujrmcore.AttributeAllMaxed=所有的属性都满了！
+jinryuujrmcore.LimitReached=达到了极限！
+
+death.attack.OutOfBodyHealth=%1$s 死于生命力干涸。
+death.attack.OutOfBodyHealth.player=%1$s 被 %2$s 击杀了。
+death.attack.NotAlive=%1$s 是阴间的人。
+death.attack.causeExplosion=%1$s 被炸死
+
+jinryuujrmcore.recivedinv=收到组队邀请:
+jinryuujrmcore.form=来自新的队伍
+jinryuujrmcore.invite=邀请
+jinryuujrmcore.setleader=设置队长
+jinryuujrmcore.kick=踢出
+jinryuujrmcore.disband=解除
+jinryuujrmcore.leave=离开
+jinryuujrmcore.leader=队长
+jinryuujrmcore.Next=下一个
+jinryuujrmcore.Back=返回
+jinryuujrmcore.Prev=上一个
+jinryuujrmcore.Accept=接受
+jinryuujrmcore.Yes=是
+jinryuujrmcore.No=否
+
+jinryuujrmcore.reward=你准备怎么做？
+jinryuujrmcore.accept=接受
+jinryuujrmcore.decline=拒绝
+jinryuujrmcore.abandon=放弃
+
+jinryuujrmcore.Fight=战斗
+jinryuujrmcore.Skip=跳过
+jinryuujrmcore.Restart=重新开始
+jinryuujrmcore.start=开始
+jinryuujrmcore.Continue=继续
+
+jinryuujrmcore.Update=升级
+jinryuujrmcore.noOneToTeach=没有可以教学的人！
+jinryuujrmcore.teachingOffer=%1$s 已经教给了 
+jinryuujrmcore.teachingOfferAccepted=%1$s 接受了你的 
+jinryuujrmcore.teachingOfferDeclined=%1$s's 
+jinryuujrmcore.teachingOfDeclByYou=你拒绝了 %1$s's 
+jinryuujrmcore.teachingOfDeclByPlayr=%1$s 不接受你的招式传授!
+jinryuujrmcore.nothingtoaccept=没有什么可以接受的请求!
+jinryuujrmcore.notenoughtp=训练点不够!
+jinryuujrmcore.typedWrong=你输入的命令参数是错误的!
+
+jinryuujrmcore.noslotleft=没有空闲招式槽!
+jinryuujrmcore.nomindleft=已经没有心灵了!
+jinryuujrmcore.alreadyhaveskill=你已经有了那个技能!
+jinryuujrmcore.skilladded=技能 %1$s 已添加!
+jinryuujrmcore.skillupped=技能 %1$s 已经升级成等级 %2$s!
+jinryuujrmcore.skillallremoved=所有技能都被删除!
+jinryuujrmcore.techadded=技能 %1$s 已经被你学会!
+jinryuujrmcore.skillnameinvalid=技能名称无效!
+
+jinryuujrmcore.SelectedDifficulty=选择难度
+jinryuujrmcore.KaioDiffRedLine=去界王哪里降低难度
+jinryuujrmcore.TailMode=尾巴模式
+jinryuujrmcore.ArcMask=5种形态面具
+jinryuujrmcore.ArcMaskOn=面具 开
+jinryuujrmcore.ArcMaskOff=面具 关
+jinryuujrmcore.Difficulty=难度
+jinryuujrmcore.MainAttributes=主属性
+jinryuujrmcore.CharSheet=角色表
+jinryuujrmcore.Skills=技能
+jinryuujrmcore.KiTechniques=气技能
+jinryuujrmcore.Jutsu=忍术
+jinryuujrmcore.Learn=学习
+jinryuujrmcore.Maxed=最大
+jinryuujrmcore.NoUpgrade=没有升级
+jinryuujrmcore.AvailableSkillSlot=可用的技能槽
+jinryuujrmcore.AvailableMind=可用的心灵
+jinryuujrmcore.Unlearn=忘记技能
+jinryuujrmcore.Teach=指导
+jinryuujrmcore.Create=设置技能
+jinryuujrmcore.tooPowerful=这个技能太过强大
+jinryuujrmcore.Changesomestats=改变部分属性
+jinryuujrmcore.Owned=已有
+jinryuujrmcore.Voice=声音
+jinryuujrmcore.AuraColor=气的颜色
+
+jinryuujrmcore.Learned=学会
+jinryuujrmcore.Selfmade=自制
+jinryuujrmcore.Slow=慢
+jinryuujrmcore.Average=正常
+jinryuujrmcore.Fast=快
+jinryuujrmcore.VeryFast=很快
+jinryuujrmcore.AlignmentBased=基于善恶
+jinryuujrmcore.white=白
+jinryuujrmcore.blue=蓝
+jinryuujrmcore.purple=紫
+jinryuujrmcore.red=红
+jinryuujrmcore.black=黑
+jinryuujrmcore.green=绿
+jinryuujrmcore.yellow=黄
+jinryuujrmcore.orange=橙
+
+jinryuujrmcore.brown=棕
+jinryuujrmcore.cyan=青
+jinryuujrmcore.silver=浅灰
+jinryuujrmcore.gray=灰
+jinryuujrmcore.pink=粉红
+jinryuujrmcore.lime=柠檬绿
+jinryuujrmcore.lightBlue=浅蓝
+
+jinryuujrmcore.BodysuitColor=颜色
+
+
+jinryuujrmcore.GroupManager=组队管理
+jinryuujrmcore.ServerConfig=服务器设置
+jinryuujrmcore.Calendar=日历
+jinryuujrmcore.Family=家庭状况管理
+
+
+jinryuujrmcore.BarberMenu=理发菜单
+jinryuujrmcore.NoHairToEdit=这个种族没有头发
+jinryuujrmcore.BarberSnC.line1=让你随时随地修改你的发型
+
+item.ItemBarberSnC.name=理发剪刀和梳子
+
+entity.jinryuufamilyc.Child.name=一个孩子
+
+jinryuujrmcore.ExtraSlots=额外的插槽
+jinryuujrmcore.WeightSlot=重量槽
+jinryuujrmcore.trainingweightworn=目前体重
+jinryuujrmcore.weightreduction=属性简约
+jinryuujrmcore.trainingweight=重置训练
+jinryuujrmcore.trainingweightno=你需要北界王或者是神仙来帮你训练
+
+jinryuujrmcore.Start=启动
+jinryuujrmcore.shadowdummy=影子傀儡
+jinryuujrmcore.concentration=浓度
+jinryuujrmcore.shadowdummyDesc=打败你的影子，只有所有者可以使用它，击败他可以获得训练点
+jinryuujrmcore.concentrationDesc=集中度训练每日小游戏可获得训练点。/n点击蓝色的球获得分数。/n点击红色的球失去分数。/n黑色也能得分但需要付出代价。/n分数低于零或者你死了，游戏结束。/n分数会被转换成训练点。
+jinryuujrmcore.Change=改变
+jinryuujrmcore.BPswap=战斗力
+jinryuujrmcore.BPswapDesc=您可以将战斗力更改为正常或高。/n正常表示当前最准确的功率范围，用于玩家之间的比较。/n高只是为了娱乐，根本是不准确的。/n(客户端)当前的战斗力： %1$s 
+jinryuujrmcore.BPHigh=高
+jinryuujrmcore.BPNormal=正常
+
+entity.jinryuujrmcore.TrainingShadowDummy.name=影子傀儡
+jinryuujrmcore.Training=训练
+jinryuujrmcore.TrainingDesc=训练
+jinryuujrmcore.MediSkillCategory=冥想的范围
+jinryuujrmcore.Active=活跃
+jinryuujrmcore.Passive=被动
+jinryuujrmcore.Rate=速度
+jinryuujrmcore.CltSettings=客户端设置
+jinryuujrmcore.CltSettingsDesc=客户端设置可能会对游戏产生影响，但大多数设置只是视觉的效果。
+
+jinryuujrmcore.BodySlot=本体槽
+jinryuujrmcore.HeadSlot=头部槽
+
+
+jinryuujrmcore.restart=重新开始
+jinryuujrmcore.missionSys.Protect=为了正义
+jinryuujrmcore.missionSys.Myself=为了自己
+jinryuujrmcore.missionSys.Evil=为了邪恶
+
+jinryuujrmcore.missionObjType.completed=- 完成
+jinryuujrmcore.missionObjType.defeated=- 打败了
+jinryuujrmcore.missionObjType.nothinh=没有目标
+jinryuujrmcore.missionObjType.kill=杀死 %1$s %2$s
+jinryuujrmcore.missionObjType.killsame=杀死 %1$s %2$s 
+jinryuujrmcore.missionObjType.item=收集 %1$s %2$s 
+jinryuujrmcore.missionObjType.biome=去生物群系 %1$s %2$s
+jinryuujrmcore.missionObjType.dim=去目标地点 %1$s %2$s 
+jinryuujrmcore.missionObjType.biome2=在生物群系 %1$s %2$s 
+jinryuujrmcore.missionObjType.dim2=在目标地点 %1$s %2$s 
+jinryuujrmcore.missionObjType.state=提升状态 %1$s %2$s 
+jinryuujrmcore.missionObjType.talk=和 %1$s %2$s 对话
+jinryuujrmcore.missionObjType.lvl=达到等级 %1$s %2$s
+jinryuujrmcore.missionObjType.anywilldo=(接受所有)
+
+tile.stoneSingleSlab.name=灰色石板
+tile.BlockColoredStone.black.name=黑色石头
+tile.BlockColoredStone.red.name=红色石头
+tile.BlockColoredStone.green.name=绿色石头
+tile.BlockColoredStone.brown.name=褐色石头
+tile.BlockColoredStone.blue.name=蓝色石头
+tile.BlockColoredStone.purple.name=紫色石头
+tile.BlockColoredStone.cyan.name=青色石头
+tile.BlockColoredStone.silver.name=银色石头
+tile.BlockColoredStone.gray.name=灰色石头
+tile.BlockColoredStone.pink.name=粉色石头
+tile.BlockColoredStone.lime.name=石灰色石头
+tile.BlockColoredStone.yellow.name=黄色石头
+tile.BlockColoredStone.lightBlue.name=浅蓝色石头
+tile.BlockColoredStone.magenta.name=品红色石头
+tile.BlockColoredStone.orange.name=橙色石头
+tile.BlockColoredStone.white.name=白色石头
+tile.BlockFence.name=不可破坏的白色栅栏
+tile.BlockStairs.name=不可破坏的白色楼梯
+
+tile.stoneSingleSlab2.name=灰色石板2
+tile.BlockColoredStone2.black.name=黑色石头2
+tile.BlockColoredStone2.red.name=红色石头2
+tile.BlockColoredStone2.green.name=绿色石头2
+tile.BlockColoredStone2.brown.name=褐色石头2
+tile.BlockColoredStone2.blue.name=蓝色石头2
+tile.BlockColoredStone2.purple.name=紫色石头2
+tile.BlockColoredStone2.cyan.name=青色石头2
+tile.BlockColoredStone2.silver.name=银色石头2
+tile.BlockColoredStone2.gray.name=灰色石头2
+tile.BlockColoredStone2.pink.name=粉色石头2
+tile.BlockColoredStone2.lime.name=石灰色石头2
+tile.BlockColoredStone2.yellow.name=黄色石头2
+tile.BlockColoredStone2.lightBlue.name=浅蓝色石头2
+tile.BlockColoredStone2.magenta.name=品红色石头2
+tile.BlockColoredStone2.orange.name=橙色石头2
+tile.BlockColoredStone2.white.name=白色石头2
+tile.BlockFence2.name=不可破坏的白色栅栏2
+tile.BlockStairs2.name=不可破坏的白色楼梯2

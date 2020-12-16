@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/TestRoot2/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "DBC Divinity (1.7.10)",
+    "description": "DBC Divinity Powered By HaveCore",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "10.13.4.1614"
+  },
+  "untrackedFiles": []
+}
