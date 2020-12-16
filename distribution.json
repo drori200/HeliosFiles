@@ -211,7 +211,7 @@
       "id": "Divinity-1.7.10",
       "name": "DBC Divinity (1.7.10)",
       "description": "DBC Divinity Powered By HaveCore",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/Divinity_Logo.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.7.10",
