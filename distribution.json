@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "AlphaReborn-1.7.10",
-      "name": "DBC Alpha Reborn (Minecraft 1.7.10)",
+      "name": "DBC Alpha Reborn (1.7.10)",
       "description": "DBC Alpha Reborn Powered By HavenCore",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/AlphaReborn-1.7.10/AR.png",
       "version": "1.0.0",
