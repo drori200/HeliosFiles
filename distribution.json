@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "TestingThis-1.7.10",
-      "name": "TestingThis (Minecraft 1.7.10)",
-      "description": "TestingThis Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "id": "DBCFusions",
+      "name": "Dragon Block C Fusions (1.7.10)",
+      "description": "Join DBC Fusions!. Powered by HavenCore DBC fusions provides with a unique player experience with many features such as: Custom Character Selection, Prestige for every race, Gravity Training, Potara fusions and many many more!'",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/TestingThis-1.7.10/pack.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "51.161.76.173:25650",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
