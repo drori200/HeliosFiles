@@ -1,0 +1,132 @@
+{
+    "images": {
+        "title": {
+            "image" : "dbz:Fusions.png",
+            "posX" : -405,
+            "posY" : 20,
+            "width" : 280,
+            "height" : 120,
+            "alignment" : "top_right"
+        }
+    },
+    
+    "buttons":
+    {
+        
+        "servers":
+        {
+            "text" : "Official Server",
+            "posX" : -100,
+            "posY" : 75,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "51.161.76.173:25650"
+            }
+        },
+        
+        "discord":
+        {
+            "text" : "Discord",
+            "posX" : -100,
+            "posY" : 102,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+				"type" : "openLink",
+				"link" : "https://discord.gg/MK7YPMW"
+            }
+        },         
+		
+        "webstore":
+        {
+            "text" : "Website",
+            "posX" : -100,
+            "posY" : 126,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+				"type" : "openLink",
+				"link" : "https://www.havencorenetwork.com/"
+            }
+        },
+		
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -92,
+            "posY" : 173,
+            "width" : 90,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+		
+
+	"options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 149,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 2,
+            "posY" : 173,
+            "width" : 90,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }	
+    },
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Welcome to DBC Fusions :D!",
+            "posX" : -130,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+			
+    },
+    
+    "other":
+    {
+        "":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "file" : "texts/splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "dbz:background.jpg",
+            "animate" : false,
+            "blur" : false,
+            "gradient" : true
+        }
+    }
+}
