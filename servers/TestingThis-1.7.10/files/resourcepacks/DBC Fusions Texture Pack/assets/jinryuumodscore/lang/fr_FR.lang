@@ -1,0 +1,520 @@
+itemGroup.JRMCore=Noyau des Mods de JinRyuu
+itemGroup.jrhc=JinRyuu's Hair C
+jinryuujrmcore.RemoveHair=Enlever la coupe personnalisée
+
+jinryuujrmcore.News=Nouveaux
+
+jinryuujrmcore.Server=Serveur
+
+jinryuujrmcore.Main=Principale
+jinryuujrmcore.Side=Secondaire
+jinryuujrmcore.Group=Groupe
+
+
+jinryuujrmcore.Disabled=Désactivé
+jinryuujrmcore.Enabled=Activé
+jinryuujrmcore.EnergyRegeneration=Régénération d'énergie
+jinryuujrmcore.HealthRegeneration=Régénération de vie
+
+jinryuujrmcore.EnergyCharge=Recharge d'énergie
+jinryuujrmcore.ExpirienceGain=Gain d'expérience
+jinryuujrmcore.TrainingPointGain=Gain de Point d'Entraînement
+
+
+jinryuujrmcore.Explosions=Explosions
+jinryuujrmcore.Speed=Vitesse
+jinryuujrmcore.Off=Désactivé
+jinryuujrmcore.selectpwratcreator=Sélectionner un type de pouvoir dans la création de personnage.
+jinryuujrmcore.On=Activé
+jinryuujrmcore.OK=OK
+jinryuujrmcore.Select=Sélectionner
+jinryuujrmcore.Planet=Planète
+jinryuujrmcore.Destinations=Destinations
+
+jinryuujrmcore.OnDynamic=En dynamique
+jinryuujrmcore.OnSimple=En simple
+
+jinryuujrmcore.Human=Humain
+jinryuujrmcore.Saiyan=Saiyan
+jinryuujrmcore.Half-Saiyan=Demi-Saiyan
+jinryuujrmcore.Namekian=Namekien
+jinryuujrmcore.Arcosian=Démon du Givre
+
+jinryuujrmcore.Race=Race
+jinryuujrmcore.Gender=Genre
+jinryuujrmcore.Hair=Coupe
+jinryuujrmcore.Style=Style
+jinryuujrmcore.Color=Couleur
+jinryuujrmcore.Tail=Queue
+jinryuujrmcore.PowerType=Type de pouvoir
+jinryuujrmcore.Years=Âge
+jinryuujrmcore.Child=Enfant
+jinryuujrmcore.Teen=Adolescent
+jinryuujrmcore.YoungAdult=Jeune adulte
+jinryuujrmcore.Adult=Adulte
+jinryuujrmcore.MiddleAged=Âge mûr
+jinryuujrmcore.Senior=Senior
+
+jinryuujrmcore.Appearance=Apparence
+jinryuujrmcore.Enable=Activer
+jinryuujrmcore.Disable=Désactiver
+jinryuujrmcore.DefaultSkin=Skin par défaut
+jinryuujrmcore.CustomSkin=Skin personalisé
+jinryuujrmcore.BodyType=Type de corps
+jinryuujrmcore.Nose=Nez
+jinryuujrmcore.Mouth=Bouche
+jinryuujrmcore.Eyes=Yeux
+jinryuujrmcore.Match=Correspondre
+jinryuujrmcore.CustomHair=Coupe personnalisée
+jinryuujrmcore.BaseHair=Coupe de base
+jinryuujrmcore.Reset=Réinitialiser
+jinryuujrmcore.Yaw=Joue
+jinryuujrmcore.Pitch=Hauteur
+jinryuujrmcore.Share=Partager
+jinryuujrmcore.Copy=Copier
+jinryuujrmcore.Paste=Coller
+jinryuujrmcore.Done=Terminer
+jinryuujrmcore.Revert=retourner
+jinryuujrmcore.FrontHead=Devant
+jinryuujrmcore.RightHead=Droite
+jinryuujrmcore.LeftHead=Gauche
+jinryuujrmcore.BackHead=Derrière
+jinryuujrmcore.TopHead=Haut
+jinryuujrmcore.Preset=Présélection
+jinryuujrmcore.SavePreset=Sauvegarder comme présélection
+jinryuujrmcore.DelPreset=Supprimer présélection
+jinryuujrmcore.hairRotations=Rotations
+jinryuujrmcore.hairXaxis=Axe-X
+jinryuujrmcore.hairYaxis=Axe-Y
+jinryuujrmcore.hairZaxis=Axe-Z
+jinryuujrmcore.hairLength=Longueur des cheveux
+
+
+
+
+
+jinryuujrmcore.hairHide=Cacher le groupe de cheveux
+jinryuujrmcore.hairShow=Montrer le groupe de cheveux
+jinryuujrmcore.hairReset=Réinitialiser
+jinryuujrmcore.hairDoAllOn=Mode répétition activé
+
+jinryuujrmcore.hairDoAllOff=Mode répétition désactivé
+jinryuujrmcore.Preview=Aperçu
+jinryuujrmcore.HairSalon=Salon de coiffure
+
+
+
+
+
+jinryuujrmcore.Male=Homme
+jinryuujrmcore.Female=Femme
+
+jinryuujrmcore.SwordArt=Sword Art
+
+jinryuujrmcore.Natural=Naturel
+jinryuujrmcore.Ki=Ki
+jinryuujrmcore.Chakra=Chakra
+jinryuujrmcore.NaturalDesc=Le menu Minecraft basique avec rien d'additionnel,sauf l'apparence(augmenter la compatibilité avec d'autres mods).
+jinryuujrmcore.KiDesc=L'énergie Dragon Block.Si vous voulez avoir accès aux fonctionnalités de Dragon Block C choisissez ça
+jinryuujrmcore.ChakraDesc=L'énergie Naruto.Si vous voulez avoir accès aux fonctionnalités de Naruto C choisissez ça
+
+jinryuujrmcore.Survival=Survie
+jinryuujrmcore.SurvivalDesc=Survie Minecraft
+jinryuujrmcore.MartialArtist=Arts martiaux
+jinryuujrmcore.Spiritualist=Spiritualiste
+jinryuujrmcore.Warrior=Guerrier
+
+
+
+
+jinryuujrmcore.Clanless=Sans clan
+jinryuujrmcore.Hyuuga=Hyuuga
+jinryuujrmcore.Uchiha=Uchiwa
+jinryuujrmcore.ClanlessDesc=Utilisateurs sans Clan
+jinryuujrmcore.HyuugaDesc=Utilisateurs du Byakugan
+jinryuujrmcore.UchihaDesc=Utilisateurs du Sharingan
+
+jinryuujrmcore.Class=Classe
+jinryuujrmcore.Clan=Clan
+jinryuujrmcore.Super=Super
+jinryuujrmcore.Normal=Normal
+jinryuujrmcore.Hard=Dur
+jinryuujrmcore.Insane=Impossible
+
+
+
+
+jinryuujrmcore.TRState=Forme
+jinryuujrmcore.Base=Base
+
+
+jinryuujrmcore.HFormG=Dieu
+jinryuujrmcore.Super=Super
+jinryuujrmcore.SuperG2=SSJ stade 2
+jinryuujrmcore.SuperG3=SSJ stade 3
+jinryuujrmcore.SuperFP=SS Plein pouvoir
+jinryuujrmcore.Super2=SSJ2
+jinryuujrmcore.Super3=SSJ3
+jinryuujrmcore.Super4=SSJ4
+
+jinryuujrmcore.NForm2=Géant
+jinryuujrmcore.NFormG=Dieu
+jinryuujrmcore.Form0=Minimale
+jinryuujrmcore.Form1=Première
+jinryuujrmcore.Form2=Seconde
+jinryuujrmcore.Form3=Troisième
+jinryuujrmcore.Form5=Super
+jinryuujrmcore.Form6=Ultime
+jinryuujrmcore.FormG=Dieu
+jinryuujrmcore.Oozaru=Oozaru
+jinryuujrmcore.OozaruS=Oozaru doré
+jinryuujrmcore.SuperG=SSDivin
+jinryuujrmcore.SuperGR=Rituel du SSDivin
+jinryuujrmcore.SuperB=SSBlue
+jinryuujrmcore.SuperR=SSRose
+jinryuujrmcore.PotUnleashed=Mystique
+jinryuujrmcore.SuperL=SSVert
+jinryuujrmcore.SuperLB=SSVert max pouvoir
+jinryuujrmcore.SuperBS=SSBleu Shinka
+jinryuujrmcore.SuperRS=SSRose Shinka
+jinryuujrmcore.UInstinct=Ultra instinct
+
+jinryuujrmcore.ArcosianUltimateColor=Couleurs de la forme ultime des Démons du givre
+
+jinryuujrmcore.UCnam=Coût de l'amélioration de l'Attribut
+
+jinryuujrmcore.Modified=Modifié
+jinryuujrmcore.Original=Originel
+jinryuujrmcore.Strength=Force
+jinryuujrmcore.Dexterity=Dextérité
+jinryuujrmcore.Constitution=Constitution
+jinryuujrmcore.WillPower=Pouvoir de la Vonlonté
+jinryuujrmcore.Mind=Mental
+jinryuujrmcore.Spirit=Esprit
+jinryuujrmcore.Concentration=Concentration
+
+jinryuujrmcore.StrMC=Augmente Dégâts de mêlée
+jinryuujrmcore.DexMC=Augmente Vitesse
+jinryuujrmcore.ConMC=Augmente Vie
+
+jinryuujrmcore.StrDB=Augmente Dégâts de mêlée
+jinryuujrmcore.DexDB=Augmente Défense et Vitesse
+jinryuujrmcore.ConDB=Augmente Résistance et Temps d'action
+jinryuujrmcore.WilDB=Augmente Maximum de force Ki
+jinryuujrmcore.MndDB=Augmente Gain de PE et limite des compétences
+jinryuujrmcore.SpiDB=Augmente barre de Ki
+
+jinryuujrmcore.StrNC=Force Taijutsu
+jinryuujrmcore.DexNC=Vitesse Taijutsu
+jinryuujrmcore.ConNC=Limites du corps,régénération et taille
+jinryuujrmcore.WilNC=Contrôle et Force du Jutsu
+jinryuujrmcore.MndNC=Limites du Chakra
+jinryuujrmcore.SpiNC=Augmente barre de Chakra
+
+jinryuujrmcore.Stats1Body=Résistance
+jinryuujrmcore.Stats2Speed=Vitesse
+jinryuujrmcore.Stats3Stamina=Endurance
+jinryuujrmcore.Stats4Max=Ki max
+jinryuujrmcore.Stats5Control=Contrôle du Ki
+jinryuujrmcore.Stats6Regen=Régénération du Ki
+jinryuujrmcore.Stats7Defense=Défense
+jinryuujrmcore.Stats8Melee=Dégâts de mêlée
+
+jinryuujrmcore.NCStats1Body=Résistance
+jinryuujrmcore.NCStats2Speed=Vitesse
+jinryuujrmcore.NCStats3Stamina=Endurance
+jinryuujrmcore.NCStats4Max=Chakra Max
+jinryuujrmcore.NCStats5Control=Contrôle du Chakra
+jinryuujrmcore.NCStats6Regen=Régénération du Chakra
+
+jinryuujrmcore.Level=Niveau
+
+jinryuujrmcore.LevelMax=Le niveau maximum a été atteint!
+jinryuujrmcore.Alignment=Alignement
+
+
+
+
+jinryuujrmcore.needRacialSkillMax=Vous devez augmentez vos compétences raciales.
+jinryuujrmcore.cantLearnThis=Vous ne pouvez pas apprendre ça!
+jinryuujrmcore.Good=Pur
+jinryuujrmcore.Neutral=Neutre
+jinryuujrmcore.Evil=Maléfique
+jinryuujrmcore.Max=Max
+jinryuujrmcore.Current=Actuel
+jinryuujrmcore.PunchDamage=Dégâts des Coups
+jinryuujrmcore.meleeDamage=Dégâts de mêlée
+jinryuujrmcore.NeedToBeGood=Vous devez être à 100% pur!
+
+jinryuujrmcore.skilldisabled=Compétence désactivée
+jinryuujrmcore.specskilldisabled=Compétence %1$s désactivée
+
+jinryuujrmcore.mleMC=Dégâts de mêlée
+jinryuujrmcore.DefMC=Défense
+jinryuujrmcore.heltMC=Vie
+
+jinryuujrmcore.mleNC=Dégâts de mêlée
+jinryuujrmcore.DefNC=Défense
+jinryuujrmcore.BdNC=Résistance
+jinryuujrmcore.StNC=Endurance
+jinryuujrmcore.EnPwNC=Force du Chakra
+jinryuujrmcore.EnPlNC=Chakra max
+jinryuujrmcore.MxSkNC=Compétences max
+jinryuujrmcore.SpNC=Vitesse
+
+
+
+
+jinryuujrmcore.mleDB=Dégâts de mêlée
+jinryuujrmcore.DefDB=Défense
+jinryuujrmcore.BdDB=Résistance
+jinryuujrmcore.StDB=Endurance
+jinryuujrmcore.EnPwDB=Force du Ki
+jinryuujrmcore.EnPlDB=Ki max
+jinryuujrmcore.MxSkDB=Compétences max
+
+
+
+
+
+jinryuujrmcore.Stats=Statistiques
+
+
+
+
+
+
+
+jinryuujrmcore.Attributes=Attributs
+jinryuujrmcore.StartAttr=Attributs de début
+jinryuujrmcore.TP=PE
+jinryuujrmcore.TrainingPoints=Actuel points d'entraînements
+
+jinryuujrmcore.AttributeMaxed=Cet attribut est au max!
+jinryuujrmcore.AttributeAllMaxed=Tous les attributs sont au max!
+jinryuujrmcore.LimitReached=Limite atteinte!
+jinryuujrmcore.cantupgrade=Vous ne pouvez pas améliorer!
+
+jinryuujrmcore.youSlainBy=Vous avez été tué par %1$s!
+jinryuujrmcore.youDied=Vous êtes mort!
+jinryuujrmcore.slainBy=%1$s a été tué par %2$s
+jinryuujrmcore.pDied=%1$s est mort!
+jinryuujrmcore.pDied2=%1$s est mort! Dernière attaque connue il y a %2$s secondes par %3$s
+
+death.attack.OutOfBodyHealth.player=%1$s a été tué par %2$s
+death.attack.OutOfBodyHealth=%1$s est mort. Son corps a atteint ses limites
+death.attack.OutOfBodyHealth.player=%1$s a été tué par %2$s
+
+
+
+jinryuujrmcore.recivedinv=Invitation de Groupe reçue de:
+jinryuujrmcore.form=Former un nouveau groupe
+jinryuujrmcore.invite=Inviter
+jinryuujrmcore.setleader=Rendre Chef
+jinryuujrmcore.kick=Bannir
+jinryuujrmcore.disband=Débannir
+jinryuujrmcore.leave=Quitter
+jinryuujrmcore.leader=Chef
+jinryuujrmcore.Next=Suivant
+jinryuujrmcore.Back=Retour
+jinryuujrmcore.Prev=Aperçu
+jinryuujrmcore.Accept=Accepte
+jinryuujrmcore.Yes=Oui
+jinryuujrmcore.No=Non
+
+jinryuujrmcore.delskillconfirm=Voulez-vous DETRUIRE la compétence %1$s?
+
+jinryuujrmcore.reward=Pourquoi te bats-tu?
+jinryuujrmcore.accept=Accepte
+jinryuujrmcore.decline=Refuse
+jinryuujrmcore.abandon=Abandonne
+
+jinryuujrmcore.Fight=Affronte
+jinryuujrmcore.Skip=Saute
+jinryuujrmcore.Restart=Recommence
+jinryuujrmcore.start=Commence
+jinryuujrmcore.Continue=Continue
+
+
+jinryuujrmcore.noOneToTeach=Personne à qui apprendre!
+
+
+
+
+
+
+
+jinryuujrmcore.typedWrong=Vous avez mal tapé une commande!
+
+jinryuujrmcore.noslotleft=Il n'y a plus d'emplacements libres.
+
+jinryuujrmcore.alreadyhaveskill=Vous avez déjà cette compétence!
+
+
+
+
+jinryuujrmcore.skillnameinvalid=Nom de compétence invalide!
+
+jinryuujrmcore.SelectedDifficulty=Difficulté choisi
+
+
+
+jinryuujrmcore.ArcMaskOn=Masque activé
+jinryuujrmcore.ArcMaskOff=Masque désactivé
+jinryuujrmcore.Difficulty=Difficulté
+jinryuujrmcore.MainAttributes=Attributs principaux
+jinryuujrmcore.CharSheet=Fiche personnage
+jinryuujrmcore.Skills=Compétences
+jinryuujrmcore.KiTechniques=Techniques de Ki
+jinryuujrmcore.Jutsu=Jutsu
+jinryuujrmcore.Learn=Appris
+jinryuujrmcore.Maxed=Maxé
+jinryuujrmcore.NoUpgrade=Pas d'amélioration
+jinryuujrmcore.AvailableSkillSlot=Emplacement de compétence disponible
+
+jinryuujrmcore.Unlearn=Non-appris
+
+jinryuujrmcore.Create=Créer
+jinryuujrmcore.tooPowerful=Cette technique est trop puissante
+
+
+jinryuujrmcore.Voice=Voix
+jinryuujrmcore.AuraColor=Couleur de l'aura
+
+jinryuujrmcore.Learned=Appris
+jinryuujrmcore.Selfmade=Fait soi-même
+jinryuujrmcore.Slow=Lent
+jinryuujrmcore.Average=Moyen
+jinryuujrmcore.Fast=Rapide
+jinryuujrmcore.VeryFast=Très rapide
+jinryuujrmcore.AlignmentBased=Basé sur l'Alignement
+jinryuujrmcore.white=Blanc
+jinryuujrmcore.blue=Bleu
+jinryuujrmcore.purple=Violet
+jinryuujrmcore.red=Rouge
+jinryuujrmcore.black=Noir
+jinryuujrmcore.green=Vert
+jinryuujrmcore.yellow=Jaune
+jinryuujrmcore.orange=Orange
+
+jinryuujrmcore.brown=Marron
+jinryuujrmcore.cyan=Cyan
+jinryuujrmcore.silver=Cyan clair
+jinryuujrmcore.gray=Gris
+jinryuujrmcore.pink=Rose
+jinryuujrmcore.lime=Vert clair
+jinryuujrmcore.lightBlue=Bleu clair
+
+jinryuujrmcore.BodysuitColor=Couleur
+
+
+
+
+jinryuujrmcore.Calendar=Calendrier et jours
+
+
+
+
+jinryuujrmcore.NoHairToEdit=Cette race n'a pas de cheveux
+jinryuujrmcore.BarberSnC.line1=Vous pouvez modifiez votre coiffure n'importe quand avec cet objet.
+
+
+
+entity.jinryuufamilyc.Child.name=un enfant
+
+jinryuujrmcore.ExtraSlots=Extra Emplacement
+jinryuujrmcore.WeightSlot=Emplacement de Poids
+jinryuujrmcore.trainingweightworn=Poids actuel
+
+jinryuujrmcore.trainingweight=Poids d'entraînement
+jinryuujrmcore.trainingweightno=Les poids ont besoin d'être reçu par un entraîneur,comme Kami ou Roi Kai,pour avoir un poids !
+
+jinryuujrmcore.Start=Commencer
+
+jinryuujrmcore.concentration=Concentration
+
+
+
+
+
+
+jinryuujrmcore.BPNormal=Normal
+
+
+
+jinryuujrmcore.Training=Entrainement
+jinryuujrmcore.TrainingDesc=Entrainement
+
+jinryuujrmcore.Active=Active
+jinryuujrmcore.Passive=Passive
+
+
+
+
+jinryuujrmcore.BodySlot=Emplacement de Corps
+jinryuujrmcore.HeadSlot=Emplacement de tête
+
+
+jinryuujrmcore.restart=Recommencez
+jinryuujrmcore.missionSys.Protect=Pour protéger
+jinryuujrmcore.missionSys.Myself=Pour moi-même
+jinryuujrmcore.missionSys.Evil=Pour le bien du mal
+
+jinryuujrmcore.missionObjType.completed=- Terminé
+jinryuujrmcore.missionObjType.defeated=- Battu
+jinryuujrmcore.missionObjType.nothinh=Pas d'objectives
+jinryuujrmcore.missionObjType.kill=Tuez %1$s %2$s
+jinryuujrmcore.missionObjType.killsame=Tuez %1$s %2$s
+jinryuujrmcore.missionObjType.item=Ramassez %1$s %2$s
+jinryuujrmcore.missionObjType.biome=Allez au Biome %1$s %2$s
+jinryuujrmcore.missionObjType.dim=Allez dans la Dimension %1$s %2$s
+jinryuujrmcore.missionObjType.biome2=Soyez dans le Biome %1$s %2$s
+jinryuujrmcore.missionObjType.dim2=Soyez dans la Dimension %1$s %2$s
+jinryuujrmcore.missionObjType.state=Atteignez le Stade %1$s %2$s
+jinryuujrmcore.missionObjType.talk=Parlez à %1$s %2$s
+jinryuujrmcore.missionObjType.lvl=Atteignez le Niveau %1$s %2$s
+
+
+jinryuujrmcore.missionRepeat.wait=Vous pouvez rejouez cette histoire après %4$sd %3$s:%2$s:%1$s
+jinryuujrmcore.missionRepeat.not=Cette histoire n'est pas répétable!
+
+
+tile.stoneSingleSlab.name=Dalle de pierre coloré Grise
+tile.BlockColoredStone.black.name=Pierre coloré Noire
+tile.BlockColoredStone.red.name=Pierre coloré Rouge
+tile.BlockColoredStone.green.name=Pierre coloré Verte
+tile.BlockColoredStone.brown.name=Pierre coloré Marron
+tile.BlockColoredStone.blue.name=Pierre coloré Bleu
+tile.BlockColoredStone.purple.name=Pierre coloré Violette
+tile.BlockColoredStone.cyan.name=Pierre coloré Cyan
+tile.BlockColoredStone.silver.name=Pierre coloré Argenté
+tile.BlockColoredStone.gray.name=Pierre coloré Grise
+tile.BlockColoredStone.pink.name=Pierre coloré Rose
+tile.BlockColoredStone.lime.name=Pierre coloré Vert clair
+tile.BlockColoredStone.yellow.name=Pierre coloré Jaune
+tile.BlockColoredStone.lightBlue.name=Pierre coloré Bleu clair
+tile.BlockColoredStone.magenta.name=Pierre coloré Magenta
+tile.BlockColoredStone.orange.name=Pierre coloré Orange
+tile.BlockColoredStone.white.name=Pierre coloré Blanche
+tile.BlockFence.name=Barrière blanche incassable 
+tile.BlockStairs.name=Escalier blanc incassable 
+
+tile.stoneSingleSlab2.name=Dalle de pierre coloré Grise Type 2
+tile.BlockColoredStone2.black.name=Pierre coloré Noire Type 2
+tile.BlockColoredStone2.red.name=Pierre coloré Rouge Type 2
+tile.BlockColoredStone2.green.name=Pierre coloré Verte Type 2
+tile.BlockColoredStone2.brown.name=Pierre coloré Marron Type 2
+tile.BlockColoredStone2.blue.name=Pierre coloré Bleu Type 2
+tile.BlockColoredStone2.purple.name=Pierre coloré Violette Type 2
+tile.BlockColoredStone2.cyan.name=Pierre coloré Cyan Type 2
+tile.BlockColoredStone2.silver.name=Pierre coloré Argenté Type 2
+tile.BlockColoredStone2.gray.name=Pierre coloré Grise Type 2
+tile.BlockColoredStone2.pink.name=Pierre coloré Rose Type 2
+tile.BlockColoredStone2.lime.name=Pierre coloré Vert clair Type 2
+tile.BlockColoredStone2.yellow.name=Pierre coloré Jaune Type 2
+tile.BlockColoredStone2.lightBlue.name=Pierre coloré Bleu clair Type 2
+tile.BlockColoredStone2.magenta.name=Pierre coloré Magenta Type 2
+tile.BlockColoredStone2.orange.name=Pierre coloré Orange Type 2
+tile.BlockColoredStone2.white.name=Pierre coloré Blanche Type 2
+tile.BlockFence2.name=Barrière blanche incassable Type 2
+tile.BlockStairs2.name=Escalier blanc incassable Type 2

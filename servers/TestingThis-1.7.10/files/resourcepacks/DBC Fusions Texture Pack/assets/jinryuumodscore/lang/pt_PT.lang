@@ -1,0 +1,232 @@
+itemGroup.JRMCore=Jin Ryuu's Mods Core
+
+jinryuujrmcore.News=News
+jinryuujrmcore.Update=Atualização
+jinryuujrmcore.Server=Server
+
+jinryuujrmcore.Main=Principal
+jinryuujrmcore.Side=Secundárias
+jinryuujrmcore.Group=Grupo
+
+jinryuujrmcore.CoreServerConfigurations=Configuração de Server (Core)
+jinryuujrmcore.Disabled=Desativado
+jinryuujrmcore.Enabled=Ativado
+jinryuujrmcore.EnergyRegeneration=Regeneração de Energia
+jinryuujrmcore.HealthRegeneration=Regeneração de Vida
+jinryuujrmcore.PowerRelease=Concentração de Poder
+jinryuujrmcore.EnergyCharge=Concentração de Energia
+jinryuujrmcore.ExpirienceGain=Ganhos de XP
+jinryuujrmcore.TrainingPointGain=Ganhos de TP
+jinryuujrmcore.AttributeUpgradeType=Modo de aumento de Atributos
+jinryuujrmcore.AttributeBasedSizeChange=Tamanho Baseado na Mudança dos Atributos
+jinryuujrmcore.Explosions=Explosões
+jinryuujrmcore.Speed=Velocidade
+jinryuujrmcore.Off=Desligado
+jinryuujrmcore.selectpwratcreator=Selecionar tipo de Poder na Criação de Personagens
+
+jinryuujrmcore.Human=Humano
+jinryuujrmcore.Saiyan=Sayajin
+jinryuujrmcore.Half-Saiyan=Meio-Sayajin
+jinryuujrmcore.Namekian=Namekuseijin
+jinryuujrmcore.Arcosian=Arcosiano
+
+jinryuujrmcore.Race=Raça
+jinryuujrmcore.Gender=Gênero
+jinryuujrmcore.Hair=Cabelo
+jinryuujrmcore.Style=Estilo
+jinryuujrmcore.Color=Cor
+jinryuujrmcore.Tail=Rabo
+jinryuujrmcore.PowerType=Tipo de Poder
+
+jinryuujrmcore.Appearance=Aparência
+jinryuujrmcore.Enable=Ativado
+jinryuujrmcore.Disable=Desativado
+jinryuujrmcore.DefaultSkin=Skin Default
+jinryuujrmcore.CustomSkin=Skin Custom
+jinryuujrmcore.BodyType=Tipo de Corpo
+jinryuujrmcore.Nose=Nariz
+jinryuujrmcore.Mouth=Boca
+jinryuujrmcore.Eyes=Olhos
+
+jinryuujrmcore.CustomHair=Cabelo Custom
+jinryuujrmcore.BaseHair=Cabelo Base
+jinryuujrmcore.Reset=Resetar
+jinryuujrmcore.Yaw=Angulo Vertical
+jinryuujrmcore.Pitch=Angulo Horizontal
+jinryuujrmcore.Share=Compartilhar
+jinryuujrmcore.Copy=Copiar
+jinryuujrmcore.Paste=Colar
+jinryuujrmcore.Done=Terminar
+jinryuujrmcore.Revert=Reverter
+jinryuujrmcore.FrontHead=Frente
+jinryuujrmcore.RightHead=Direita
+jinryuujrmcore.LeftHead=Esquerda
+jinryuujrmcore.BackHead=Retornar
+jinryuujrmcore.TopHead=Topo
+jinryuujrmcore.Preset=Predefinidas
+jinryuujrmcore.SavePreset=Salvar Predefinição
+jinryuujrmcore.DelPreset=Deleta Predefinição
+
+jinryuujrmcore.Male=Masculino
+jinryuujrmcore.Female=Feminino
+
+jinryuujrmcore.Natural=Natural
+jinryuujrmcore.Ki=Ki
+
+jinryuujrmcore.NaturalDesc=Interface Básica do Minecraft sem nada adicional, exceto a aparência (melhor para compatibilidade com outros Mods)
+jinryuujrmcore.KiDesc=Energia DBC. Se você deseja acessar as funções do Dragon Block C, escolha esta
+jinryuujrmcore.ChakraDesc=Energia Naruto. Se você deseja acessar as funções do Naruto C, escolha esta
+
+jinryuujrmcore.Survival=Sobrevivência
+jinryuujrmcore.SurvivalDesc=Sobrevivência Minecraft
+jinryuujrmcore.MartialArtist=Artes Marciais
+jinryuujrmcore.Spiritualist=Espiritualista
+jinryuujrmcore.Warrior=Guerreiro
+jinryuujrmcore.MartialArtistDesc=Balanceado §cCorpo à Corpo §8e §9Energia
+jinryuujrmcore.SpiritualistDesc=Lutadores que preferem §9Energia
+jinryuujrmcore.WarriorDesc=Lutadores que preferem §9Corpo à Corpo
+
+
+
+
+
+
+
+
+
+
+
+jinryuujrmcore.Normal=Normal
+jinryuujrmcore.Hard=Difícil
+jinryuujrmcore.Insane=Insano
+jinryuujrmcore.NormalDesc=Sem Penalidade ao Morrer
+jinryuujrmcore.HardDesc=Penalidade (Perde-se 1 ponto de atributo aleatoriamente), 10% da XP
+jinryuujrmcore.InsaneDesc=Penalidade (Perde-se 1 ponto de 2 atributos aleatoriamente), 15% da XP
+
+jinryuujrmcore.Strength=Força
+jinryuujrmcore.Dexterity=Destreza
+jinryuujrmcore.Constitution=Constituição
+jinryuujrmcore.WillPower=Vontade
+jinryuujrmcore.Mind=Mente
+jinryuujrmcore.Concentration=Concentração
+
+jinryuujrmcore.StrengthDesc=Poder Físico
+jinryuujrmcore.DexterityDesc=Velocidade
+jinryuujrmcore.ConstitutionDesc=Limítes Físicos, regeneração & Tamanho
+jinryuujrmcore.WillPowerDesc=Controle Espiritual & Poder
+jinryuujrmcore.MindDesc=Limites Espirituais
+jinryuujrmcore.ConcentrationDesc=Regeneração Espiritual
+
+
+
+
+
+
+
+
+jinryuujrmcore.Stats1Body=Corpo
+jinryuujrmcore.Stats2Speed=Velociade
+jinryuujrmcore.Stats3Stamina=Estamina
+jinryuujrmcore.Stats4Max=Ki Máx
+jinryuujrmcore.Stats5Control=Controle de Ki
+jinryuujrmcore.Stats6Regen=Regen de Ki
+jinryuujrmcore.NCStats1Body=Corpo
+jinryuujrmcore.NCStats2Speed=Velocidade
+jinryuujrmcore.NCStats3Stamina=Estamina
+
+
+
+jinryuujrmcore.Max=Máximo
+jinryuujrmcore.Current=Atual
+jinryuujrmcore.PunchDamage=Dano de Golpe
+
+jinryuujrmcore.recivedinv=Convite de Gripo recebido de:
+jinryuujrmcore.form=Formar Novo Grupo
+jinryuujrmcore.invite=Convidar
+jinryuujrmcore.setleader=Escolher Líder
+jinryuujrmcore.kick=Chutar
+jinryuujrmcore.disband=Desfazer
+jinryuujrmcore.leave=Sair
+jinryuujrmcore.leader=Líder
+jinryuujrmcore.Next=Próx
+jinryuujrmcore.Back=Voltar
+jinryuujrmcore.Prev=Anterior
+jinryuujrmcore.Accept=Aceitar
+
+jinryuujrmcore.reward=Pelo que você luta?
+jinryuujrmcore.accept=Aceitar
+jinryuujrmcore.decline=Recusar
+jinryuujrmcore.abandon=Abandonar
+
+jinryuujrmcore.Fight=Lutar
+jinryuujrmcore.Skip=Pular
+jinryuujrmcore.Restart=Reiniciar
+jinryuujrmcore.start=Iniciar
+
+jinryuujrmcore.SelectedDifficulty=Escolha a Dificuldade
+jinryuujrmcore.KaioDiffRedLine=Vá para o Mestre Kaio para reduzir a Dificuldade
+jinryuujrmcore.TailMode=Modo Calda
+jinryuujrmcore.Difficulty=Dificuldade
+jinryuujrmcore.MainAttributes=Atributos Principais
+jinryuujrmcore.Skills=Skills
+jinryuujrmcore.KiTechniques=Técnicas de Ki
+
+jinryuujrmcore.Learn=Aprender
+jinryuujrmcore.Maxed=Maximizado
+
+jinryuujrmcore.AvailableSkillSlot=Slot de Skill Disponível
+jinryuujrmcore.Unlearn=Esquecer
+jinryuujrmcore.Create=Criar
+jinryuujrmcore.tooPowerful=A Técnica é Poderosa de mais
+jinryuujrmcore.Changesomestats=Mudar alguns stats
+jinryuujrmcore.Owned=Possui
+jinryuujrmcore.Voice=Voz
+
+jinryuujrmcore.noslotleft=Sem espaço para mais!
+jinryuujrmcore.alreadyhaveskill=Você já possuir essa Skill!
+
+jinryuujrmcore.BarberMenu=Menu de Cabelereiro
+jinryuujrmcore.NoHairToEdit=Essa raça não possui Cabelo
+jinryuujrmcore.BarberSnC.line1=Você pode modificar seu Cabelo quando quiser com este item.
+
+item.ItemBarberSnC.name=Tesouras e Pente
+
+tile.stoneSingleSlab.name=Degrau de Pedra Colorida Cinza
+tile.BlockColoredStone.black.name=Pedra Colorida Preta
+tile.BlockColoredStone.red.name=Pedra Colorida Vermelha
+tile.BlockColoredStone.green.name=Pedra Colorida Verde
+tile.BlockColoredStone.brown.name=Pedra Colorida Marrom
+tile.BlockColoredStone.blue.name=Pedra Colorida Azul
+tile.BlockColoredStone.purple.name=Pedra Colorida Roxo
+tile.BlockColoredStone.cyan.name=Pedra Colorida Ciano
+tile.BlockColoredStone.silver.name=Pedra Colorida Prateada
+tile.BlockColoredStone.gray.name=Pedra Colorida Cinza
+tile.BlockColoredStone.pink.name=Pedra Colorida Rosa
+tile.BlockColoredStone.lime.name=Pedra Colorida Lima
+tile.BlockColoredStone.yellow.name=Pedra Colorida Amarela
+tile.BlockColoredStone.lightBlue.name=Pedra Colorida Azul Clara
+tile.BlockColoredStone.magenta.name=Pedra Colorida Magenta
+tile.BlockColoredStone.orange.name=Pedra Colorida Laranja
+tile.BlockColoredStone.white.name=Pedra Colorida Branca
+tile.BlockFence.name=Cerca Branca Inquebrável
+tile.BlockStairs.name=Escada Branca Inquebrável
+
+tile.stoneSingleSlab2.name=Degrau de Pedra Colorida Cinza 2
+tile.BlockColoredStone2.black.name=Pedra Colorida Preta 2
+tile.BlockColoredStone2.red.name=Pedra Colorida Vermelha 2
+tile.BlockColoredStone2.green.name=Pedra Colorida Verde 2
+tile.BlockColoredStone2.brown.name=Pedra Colorida Marrom 2
+tile.BlockColoredStone2.blue.name=Pedra Colorida Azul 2
+tile.BlockColoredStone2.purple.name=Pedra Colorida Roxa 2
+tile.BlockColoredStone2.cyan.name=Pedra Colorida Ciano 2
+tile.BlockColoredStone2.silver.name=Pedra Colorida Prateada 2
+tile.BlockColoredStone2.gray.name=Pedra Colorida Cinza 2
+tile.BlockColoredStone2.pink.name=Pedra Colorida Rosa 2
+tile.BlockColoredStone2.lime.name=Pedra Colorida Lima 2
+tile.BlockColoredStone2.yellow.name=Pedra Colorida Amarela 2
+tile.BlockColoredStone2.lightBlue.name=Pedra Colorida Azul Clara 2
+tile.BlockColoredStone2.magenta.name=Pedra Colorida Magenta 2
+tile.BlockColoredStone2.orange.name=Pedra Colorida Laranja 2
+tile.BlockColoredStone2.white.name=Pedra Colorida Branca 2
+tile.BlockFence2.name=Cerca Branca Inquebrável 2
+tile.BlockStairs2.name=Escada Branca Inquebrável 2

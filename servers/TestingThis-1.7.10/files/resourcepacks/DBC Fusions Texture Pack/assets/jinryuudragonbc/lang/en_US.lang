@@ -1,0 +1,1547 @@
+itemGroup.DragonBlockC=Dragon Block C
+
+jinryuudragonblockc.DBCServerConfigurations=DBC Server Configurations
+jinryuudragonblockc.PlanetVegeta=Planet Vegeta
+jinryuudragonblockc.flyneedsskilllevel=Fly needs skill level
+jinryuudragonblockc.DBSpawn=DB Spawn
+jinryuudragonblockc.SagaSystem=Saga System
+jinryuudragonblockc.DeathSystem=Death System
+jinryuudragonblockc.Explosions=Explosions
+jinryuudragonblockc.NPCBuildingSpawnCheck=NPC/Building Spawn Check
+jinryuudragonblockc.KamiOutlookSafeZone=Safe Zones
+jinryuudragonblockc.DeathPenalty=Death Penalty
+jinryuudragonblockc.Earthrate=Earth rate
+jinryuudragonblockc.Namekrate=Namek rate
+
+jinryuudragonblockc.TName=Name
+jinryuudragonblockc.TAcquired=Acquired
+jinryuudragonblockc.TOwner=Owner
+jinryuudragonblockc.TType=Type
+jinryuudragonblockc.TSpeed=Speed
+jinryuudragonblockc.TDamage=Damage
+jinryuudragonblockc.TEffect=Effect
+jinryuudragonblockc.TEnergyCost=Energy Cost
+jinryuudragonblockc.TCasttime=Casttime
+jinryuudragonblockc.TCooldown=Cooldown
+jinryuudragonblockc.TColor=Color
+jinryuudragonblockc.TDensity=Density
+jinryuudragonblockc.TIncantation=Incantation
+jinryuudragonblockc.TFire=Fire
+jinryuudragonblockc.TMove=Move
+jinryuudragonblockc.TExp=Exp
+jinryuudragonblockc.TLvl=LVL
+jinryuudragonblockc.TUpg=Upgrade points
+jinryuudragonblockc.TStats=Tech Stats
+jinryuudragonblockc.Wave=Wave
+jinryuudragonblockc.Blast=Blast
+jinryuudragonblockc.Disk=Disk
+jinryuudragonblockc.Laser=Laser
+jinryuudragonblockc.Spiral=Spiral
+jinryuudragonblockc.BigBlast=Large Blast
+jinryuudragonblockc.Barrage=Barrage
+jinryuudragonblockc.Shield=Shield
+jinryuudragonblockc.Explosion=Explosion
+jinryuudragonblockc.maxDmgDesc=When charging is full in Blue bar. Red bar is overcharge.
+jinryuudragonblockc.potDmg=Potential Base Damage
+
+jinryuudragonblockc.SpeedInc=Speed Increase
+jinryuudragonblockc.DamageInc=Damage Increase
+jinryuudragonblockc.CostRed=Energy Cost Reduce
+jinryuudragonblockc.CastRed=Cast Time Reduce
+jinryuudragonblockc.CoolRed=Cooldown Reduce
+jinryuudragonblockc.DensityInc=Density Increase
+jinryuudragonblockc.SizeInc=Size Increase
+
+
+entity.jinryuudragonblockc.KiFakeMoon.name=Power Ball
+
+entity.jinryuudragonblockc.Namekian01.name=Namekian
+entity.jinryuudragonblockc.Namekian03.name=Namekian
+entity.jinryuudragonblockc.Saiyan01.name=Saiyan
+entity.jinryuudragonblockc.Saiyan02.name=Saiyan
+entity.jinryuudragonblockc.Saibaiman.name=Saibaman
+entity.jinryuudragonblockc.Raditz.name=Raditz
+entity.jinryuudragonblockc.Nappa.name=Nappa
+entity.jinryuudragonblockc.Vegeta.name=Vegeta
+entity.jinryuudragonblockc.Goku.name=Son Goku
+
+entity.jinryuudragonblockc.Kiwi.name=Cui
+entity.jinryuudragonblockc.Dodoria.name=Dodoria
+entity.jinryuudragonblockc.Zarbon.name=Zarbon
+entity.jinryuudragonblockc.Zarbon2.name=Zarbon 2nd Form
+entity.jinryuudragonblockc.Guldo.name=Guldo
+entity.jinryuudragonblockc.Recoome.name=Recoome
+entity.jinryuudragonblockc.Barta.name=Burter
+entity.jinryuudragonblockc.Jeice.name=Jeice
+entity.jinryuudragonblockc.Ginyu.name=Ginyu
+entity.jinryuudragonblockc.FreezaSoldier1.name=Frieza's Soldier
+entity.jinryuudragonblockc.FreezaSoldier2.name=Frieza's Soldier
+entity.jinryuudragonblockc.FreezaSoldier3.name=Frieza's Soldier
+entity.jinryuudragonblockc.Freeza1.name=Frieza
+entity.jinryuudragonblockc.Freeza2.name=Frieza
+entity.jinryuudragonblockc.Freeza3.name=Frieza
+entity.jinryuudragonblockc.Freeza4.name=Frieza
+entity.jinryuudragonblockc.Freeza5.name=Frieza
+entity.jinryuudragonblockc.Freeza6.name=Frieza
+entity.jinryuudragonblockc.Freeza7.name=Golden Frieza
+
+entity.jinryuudragonblockc.KingCold.name=King Cold
+entity.jinryuudragonblockc.MechaFreeza.name=Mecha Frieza
+entity.jinryuudragonblockc.Cell1.name=Cell
+entity.jinryuudragonblockc.Cell2.name=Cell
+entity.jinryuudragonblockc.Cell3.name=Cell
+entity.jinryuudragonblockc.Cell4.name=Cell
+
+entity.jinryuudragonblockc.Cyborg16.name=Android #16
+entity.jinryuudragonblockc.Cyborg17.name=Android #17
+entity.jinryuudragonblockc.Cyborg18.name=Android #18
+entity.jinryuudragonblockc.Cyborg19.name=Android #19
+entity.jinryuudragonblockc.Cyborg20.name=Android #20
+
+entity.jinryuudragonblockc.Puipui.name=Puipui
+entity.jinryuudragonblockc.Yakon.name=Yakon
+entity.jinryuudragonblockc.Darbura.name=Dabura
+entity.jinryuudragonblockc.BuuFat.name=Fat Majin Buu
+entity.jinryuudragonblockc.BuuSuper.name=Super Majin Buu
+entity.jinryuudragonblockc.Beerus.name=Beerus
+
+entity.jinryuudragonblockc.FreezaGolden.name=Golden Freeza
+
+
+entity.jinryuudragonblockc.enma.name=King Yemma
+entity.jinryuudragonblockc.kami.name=Kami
+entity.jinryuudragonblockc.northkaio.name=King Kai
+entity.jinryuudragonblockc.karin.name=Korin
+entity.jinryuudragonblockc.roshi.name=Muten Roshi
+entity.jinryuudragonblockc.cellmaster.name=Master Cell
+entity.jinryuudragonblockc.Freezamaster.name=Lord Freiza
+entity.jinryuudragonblockc.gokumaster.name=Master Goku
+entity.jinryuudragonblockc.masterbabidi.name=Master Babidi
+entity.jinryuudragonblockc.masterpiccolo.name=Master Piccolo
+entity.jinryuudragonblockc.mastervegeta.name=Master Vegeta
+entity.jinryuudragonblockc.gohanmaster.name=Master Gohan
+entity.jinryuudragonblockc.trunksfuturemaster.name=Master Trunks (Future)
+entity.jinryuudragonblockc.jin.name=Jin Ryuu
+entity.jinryuudragonblockc.gurumaster.name=Grand Elder Guru
+entity.jinryuudragonblockc.whismaster.name=Master Whis
+
+entity.jinryuudragonblockc.EntityDino01.name=Tyrannosaurus Rex
+entity.jinryuudragonblockc.EntityDino02.name=Dinosaur Runner
+entity.jinryuudragonblockc.EntityDino03.name=Dinosaur Trike
+entity.jinryuudragonblockc.Kintoun.name=Flying Nimbus
+entity.jinryuudragonblockc.KintounBlack.name=Flying Nimbus (Dark Heart)
+entity.jinryuudragonblockc.SpacePod.name=Saiyan Pod
+entity.jinryuudragonblockc.Dragon.name=Shenlong
+entity.jinryuudragonblockc.Dragon2.name=Shenlong
+entity.jinryuudragonblockc.Dragonp.name=Porunga
+entity.jinryuudragonblockc.Dragonp2.name=Porunga
+
+entity.jinryuudragonblockc.Hell01.name=Ogre Red
+entity.jinryuudragonblockc.Hell02.name=Ogre Blue
+
+entity.jinryuudragonblockc.EntityRRMecha.name=Red Ribbon Mecha (MK.I)
+entity.jinryuudragonblockc.EntitySabertooth.name=Sabertooth
+
+entity.jinryuudragonblockc.BuuEvil.name=Majin Buu (Pure Evil)
+entity.jinryuudragonblockc.BuuFusion.name=Super Buu (Gotenks Absorbed)
+entity.jinryuudragonblockc.BuuPiccolo.name=Super Buu (Piccolo Absorbed)
+entity.jinryuudragonblockc.BuuUltimate.name=Super Buu (Gohan Absorbed)
+entity.jinryuudragonblockc.BuuKid.name=Kid Buu
+entity.jinryuudragonblockc.BuuBuffed.name=Majin Buu (Supreme Kai Absorbed)
+entity.jinryuudragonblockc.CellJr.name=Cell Jr.
+entity.jinryuudragonblockc.Monaka.name=Monaka
+entity.jinryuudragonblockc.BeerusMonaka.name=Beerus (Monaka Costume)
+entity.jinryuudragonblockc.BeerusMonaka2.name=Beerus (Monaka Costume)
+entity.jinryuudragonblockc.BeerusMonaka3.name=Beerus (Monaka Costume)
+entity.jinryuudragonblockc.Berryblue.name=Berryblue
+entity.jinryuudragonblockc.Botamo.name=Botamo
+entity.jinryuudragonblockc.Champa.name=Champa
+entity.jinryuudragonblockc.Frost1.name=Frost
+entity.jinryuudragonblockc.Frost2.name=Frost
+entity.jinryuudragonblockc.Frost3.name=Frost
+entity.jinryuudragonblockc.Frost4.name=Frost
+entity.jinryuudragonblockc.Frost5.name=Frost
+entity.jinryuudragonblockc.Frost6.name=Frost
+entity.jinryuudragonblockc.Hit.name=Hit
+entity.jinryuudragonblockc.Krillin.name=Krillin
+entity.jinryuudragonblockc.Magetta.name=Magetta
+entity.jinryuudragonblockc.Roshi_super.name=Roshi (Super)
+entity.jinryuudragonblockc.Shisami.name=Shisami
+entity.jinryuudragonblockc.Sorbet.name=Sorbet
+entity.jinryuudragonblockc.Tagoma.name=Tagoma
+entity.jinryuudragonblockc.Vados.name=Vados
+entity.jinryuudragonblockc.Whis.name=Whis
+entity.jinryuudragonblockc.GokuBlack.name=Goku Black
+entity.jinryuudragonblockc.GokuBlackRose.name=Goku Black (Super Saiyan Rosé)
+entity.jinryuudragonblockc.VegetaCopy.name=Copy Vegeta
+entity.jinryuudragonblockc.VegetaCopyBlue.name=Copy Vegeta (Super Saiyan Blue)
+entity.jinryuudragonblockc.Cabba.name=Cabba
+entity.jinryuudragonblockc.CabbaSSJ.name=Cabba (Super Saiyan)
+entity.jinryuudragonblockc.Zamasu.name=Zamasu
+entity.jinryuudragonblockc.Zamasu_fused.name=Fused Zamasu
+entity.jinryuudragonblockc.Zamasu_fused2.name=Corrupted Zamasu
+entity.jinryuudragonblockc.Zamasu_fused3.name=Gigantic Zamasu
+entity.jinryuudragonblockc.Zeno.name=Zeno
+
+entity.jinryuudragonblockc.Goku_enemy.name=Son Goku
+entity.jinryuudragonblockc.Goku_enemy2.name=Son Goku (Super Saiyan)
+entity.jinryuudragonblockc.Goku_enemy3.name=Son Goku (Super Saiyan God)
+entity.jinryuudragonblockc.Goku_enemy4.name=Son Goku (Super Saiyan Blue)
+
+entity.jinryuudragonblockc.Vegeta_enemy.name=Vegeta
+entity.jinryuudragonblockc.Vegeta_enemy2.name=Vegeta (Super Saiyan)
+entity.jinryuudragonblockc.Vegeta_enemy3.name=Vegeta (Super Saiyan God)
+entity.jinryuudragonblockc.Vegeta_enemy4.name=Vegeta (Super Saiyan Blue)
+
+entity.jinryuudragonblockc.Gohan_enemy.name=Gohan
+entity.jinryuudragonblockc.Gohan_enemy2.name=Gohan (Super Saiyan)
+entity.jinryuudragonblockc.Gohan_enemy2_1.name=Ultimate Gohan
+entity.jinryuudragonblockc.Gohan_enemy2_2.name=Gohan (Super Saiyan)
+
+entity.jinryuudragonblockc.Trunks_enemy.name=Trunks
+entity.jinryuudragonblockc.Trunks_enemy2.name=Trunks (Super Saiyan)
+entity.jinryuudragonblockc.Trunks_enemy2_1.name=Trunks
+entity.jinryuudragonblockc.Trunks_enemy2_2.name=Trunks (Super Saiyan)
+
+
+
+entity.jinryuudragonblockc.EntityNamekFrog.name=Namekian Frog
+entity.jinryuudragonblockc.DBCProjectile_1.name=Rocket
+
+
+
+dbc.itemki.line1=pronunciation: 'kee'
+dbc.itemki.line2=It is chi or energy, a force energy
+dbc.itemki.line3=used for several DBC Techniques
+
+dbc.itemDRadar.line1=A Dragon Block Radar. Only
+dbc.itemDRadar.line2=Dragon Blocks that are not
+dbc.itemDRadar.line3=stone can be detected.
+
+dbc.itemKiAtt.line1=Cost: 
+dbc.itemKiAtt.line2=Damage: 
+dbc.itemKiAtt.line2.2= HH
+dbc.itemKiAtt.line3=Explode on Ground
+dbc.itemKiAtt.line4=Basic Ki Attack
+
+dbc.itemSaiySaga.line1=Saiyan Saga Item
+dbc.itemSaiySagaRad.line1=Raditz Arrived!
+dbc.itemSaiySagaRad.d.line1=Raditz: Two more saiyans will come and destroy both you and this wretched planet!
+dbc.itemSaiySagaVeg.line1=Nappa: Vegeta, what does the scouter say about his power level?!
+dbc.itemSaiySagaVeg.line2=Vegeta: It's over 8000!!!
+dbc.itemSaiySagaVeg.d.line1=Vegeta: You... you low-class warrior! You haven't seen me for the last time!
+dbc.itemSaiySagaVeg.d.line2=Nappa: GURAAAAAAGH! VEGETA!!!!!
+
+dbc.itemFreeSaga.line1=Frieza Saga Item
+dbc.itemFreeSagaCui.line1=Cui: Heheh... your powerlevel is nothing compared to mine.
+dbc.itemFreeSagaDod.line1=Dodoria: You bastard! Get back here!
+dbc.itemFreeSagaZar.line1=Zarbon: Nobody makes a fool of the Frieza Force! You hear me?! No one!
+
+dbc.itemFreeSagaGin.1.line1=Recoome!
+dbc.itemFreeSagaGin.2.line1=Burter!
+dbc.itemFreeSagaGin.3.line1=Jeice!
+dbc.itemFreeSagaGin.4.line1=Guldo!
+dbc.itemFreeSagaGin.5.line1=Captain Ginyu! Together we are... the GINYU FORCE!
+dbc.itemFreeSagaGin.6.line1=Prepare to die!
+dbc.itemFreeSagaGin.d.1.line1=Recoome: Uwaaghhh... oh my... chocolates...
+dbc.itemFreeSagaGin.d.5.line1=Ginyu: This... this can't be... I'm the second strongest below Lord Frieza!!!
+
+dbc.itemFreeSagaFre.1.line1=Frieza: Now you've made me mad...
+dbc.itemFreeSagaFre.2.line1=Frieza: You will die by my hand!
+dbc.itemFreeSagaFre.d.1.line1=Frieza: Why you, if only I transformed this never would happened...!
+dbc.itemFreeSagaFre.d.2.line1=Frieza: That is impossible! How...?
+dbc.itemFreeSagaFre.d.3.line1=Frieza: Why? Why? In a few seconds I could have transformed you know...
+dbc.itemFreeSagaFre.d.4.line1=Frieza: Now you won't see my true powers....
+dbc.itemFreeSagaFre.d.5.line1=Frieza: That's not fair! Why didn't you wait for my last transformation?
+dbc.itemFreeSagaFre.d.6.line1=Frieza: But....How?
+
+dbc.MainSaga.14.1=Mecha Frieza: Soldiers Kill the Earthlings!
+dbc.MainSaga.14.2=King Cold: Didn't you want to wait for %1$s?
+dbc.MainSaga.15.1=Mecha Frieza: I will kill you for what you have done to me!
+dbc.MainSaga.19.1=Android #20: We are cyborgs made by the Red Ribbon Army that was destroyed long ago.
+dbc.MainSaga.19.2=Android #20: Now, we've come looking for revenge!
+dbc.MainSaga.22.1=Android #17: Finally, that old bastard is dead... Now nobody can shut us down.
+dbc.MainSaga.22.2=Android #18: I want to play with our special visitor alone.
+dbc.MainSaga.22.3=Android #17: Alright, I'll go look for a carrot and a pig with #16.
+dbc.MainSaga.26.1=Cell: I can only hope you will entertain me better than the last time.
+dbc.MainSaga.26.2=Cell: You can't hide from me!
+
+dbc.MainSaga.25.1=Android #17: What happened to #18? You defeated her?! That's impossible!
+dbc.MainSaga.25.2=Android #16: #17, get out of here now! Cell is too strong!
+dbc.MainSaga.25.3=Android #17: Who do you think you are ordering around?
+dbc.MainSaga.29.1=Cell: I can only hope you will entertain me better than the last time.
+dbc.MainSaga.29.2=Cell: You cant hide from me!
+dbc.MainSaga.17.1=Sure, I will.
+dbc.MainSaga.17.2=This is terrible. It seems something more
+dbc.MainSaga.17.3=terrifying then Frieza will come in the near
+dbc.MainSaga.17.4=future. Could you look at something for me?
+dbc.MainSaga.d.Cold=King Cold: P-Please! Don't kill me... WAIT!!!
+dbc.MainSaga.d.Freeza=Mecha Frieza: Impossible....
+
+dbc.MainSaga.17.b=Sure, I will.
+dbc.MainSaga.17.m=This is terrible. It seems something more terrifying then Frieza will come in the near future. Could you look at something for me?
+
+dbc.MainSaga.d.c20=Android #20: You don't leave me any other choice, I'll have to activate #17 and #18!
+dbc.MainSaga.d.c19=Android #19: I don't want to die!!!
+dbc.MainSaga.d.c19.resp=%1$s: How ironic to hear that from a cyborg.
+dbc.MainSaga.d.c18=Android #18: No! Stay away from me you monster!! AAAAH!
+dbc.MainSaga.22.cell1=Cell: Now don't worry you will be a part of me #18.
+dbc.MainSaga.22.cell2=Cell: I will make good use of you, trust me #17.
+dbc.MainSaga.23.cell0=Cell: No one will get in the way of my perfection... NO ONE!!
+dbc.MainSaga.23.cell1=Cell: Perfection is in my grasp!
+dbc.MainSaga.23.cell2=Cell: P... is for perfect.
+dbc.MainSaga.23.cell3=Cell: You've impressed me... very well, I'll let you go this time.
+dbc.MainSaga.d.c17=Android #17: What the?! What are you? I will kill y.... AAAAH!
+dbc.MainSaga.d.c16=Android #16: I'm sorry. I just wanted to protect the nature that I love.
+dbc.MainSaga.d.cell1=Cell: You think you can kill me that easily?
+dbc.MainSaga.d.cell2=Cell: That won't work on me you know.
+dbc.MainSaga.d.cell3=Cell: UWAGGHH.... this... this can't be! I'm... I'm perfect!
+dbc.MainSaga.d.cell4=Cell: NOOOOOOOOOOOOOO!!!!! I AM... PER...FECT!!!
+
+dbc.MainSaga.30.m=Teheh... you must be %1$s... you're a fool if you think you can stop us!
+dbc.MainSaga.30.b=...
+dbc.MainSaga.31.1=Pui Pui: I come a planet with 10x the gravity of this one... you're finished.
+dbc.MainSaga.31.d=Pui Pui: HOW ARE YOU SO FAST?!
+dbc.MainSaga.32.1=Yakon: GRAAGHH!
+dbc.MainSaga.32.d=Yakon: NNGRAAA!
+dbc.MainSaga.33.1=Dabura: You have made it far, but you will go no further.
+dbc.MainSaga.33.d=Dabura: You are indeed formidable, but not formidable enough.
+dbc.MainSaga.34.1=Majin Buu: Buu! Buu! Buu turn you into chocolate!
+dbc.MainSaga.34.d=Babidi: Come now, Majin Buu, leave that weakling! We have work to do!
+dbc.MainSaga.36.1=Majin Buu: This time, Buu won't leave you alive!
+dbc.MainSaga.36.d=Majin Buu: Now Buu mad! Buu kill you!
+dbc.MainSaga.38.1=Majin Buu: You... Buu remembers you! You are one of the ones Buu beat before!
+dbc.MainSaga.38.2=Majin Buu: You want some more huh? Fine, but this will be the last time!
+dbc.MainSaga.38.d=Majin Buu: GRAAHHHH!
+dbc.MainSaga.40.1=Majin Buu: Heh, so what do you think?
+dbc.MainSaga.40.2=Majin Buu: Now then, it's time for the battle of the strongest.
+dbc.MainSaga.40.d=Majin Buu: W-what is happening?
+dbc.MainSaga.41.1=Majin Buu: No... what? (The fusion must have ran out!)
+dbc.MainSaga.41.2=Majin Buu: Not now!
+dbc.MainSaga.41.d=Majin Buu: Gr... you leave me no choice.
+dbc.MainSaga.42.1=Majin Buu: Heh heh.. so are you ready?
+dbc.MainSaga.42.2=Majin Buu: This is the birth of the mightiest Majin Buu!
+dbc.MainSaga.42.d=Majin Buu: ARGHHH... NOOOO!
+dbc.MainSaga.43.1=Kid Buu: HAHAHAHAHA
+dbc.MainSaga.43.2=Kid Buu: AH HAHAHAH
+dbc.MainSaga.43.d=Kid Buu: GRRAH
+
+dbc.MainSaga.46.1=Beerus: You've made me mad... show me what you've got!
+dbc.MainSaga.46.2=Beerus: You're a fool to challenge a God!
+dbc.MainSaga.46.d=Beerus: Alright, that's enough for now, I see that you clearly don't have the power of a God.
+dbc.MainSaga.48.1=Beerus: So, this is your power now? Not bad.
+dbc.MainSaga.48.2=Beerus: Now, this should be interesting.
+dbc.MainSaga.48.d=Beerus: You're strong, %1$s. I'll spare this planet this time... well... only if you have more delicious food to offer!
+dbc.MainSaga.49.1=Whis: Show me your current level.
+dbc.MainSaga.49.2=Whis: Are you perhaps interested in becomming a destroyer youself?
+dbc.MainSaga.49.d=Whis: Okay that's it. Not bad, but you still need to work on your Ki control.
+
+dbc.MainSaga.51.1=Shisami: Don't look down on me!
+dbc.MainSaga.51.2=Shisami: I'll finish you!
+dbc.MainSaga.51.d=Shisami: GUEH!
+dbc.MainSaga.52.1=Ginyu: You can't imagine the horror I had to go through because of you all!
+dbc.MainSaga.52.2=Ginyu: Let me show you my new battle pose!
+dbc.MainSaga.52.d=Ginyu: W-What?!
+dbc.MainSaga.53.1=Freeza: Impressive, but it ends here!
+dbc.MainSaga.53.2=Freeza: Let's make this a nice warm up!
+dbc.MainSaga.53.d=Freeza: Alright, now let me show you my true power!
+dbc.MainSaga.55.1=Freeza: Let me remind you who is at the very top of the universe's pecking order
+dbc.MainSaga.55.2=Freeza: This form is based on that wretched yellow hair of the Super Saiyan... I call it... Golden Frieza.
+dbc.MainSaga.55.d=Freeza: GYAAAAAH!
+
+dbc.MainSaga.57.1=Botamo: You won't be able to knock me out!
+dbc.MainSaga.57.2=Botamo: Let's see if you can hit me.
+dbc.MainSaga.57.d=Botamo: BUH!
+dbc.MainSaga.58.1=Frost: Let's have a nice fight!
+dbc.MainSaga.58.2=Frost: Sorry, but I can't lose here.
+dbc.MainSaga.58.d=Frost: GYEH!
+dbc.MainSaga.59.1=Magetta: Shipoo!
+dbc.MainSaga.59.2=Magetta: Shipoo Shipoo
+dbc.MainSaga.59.d=Magetta: SMOSHMO
+dbc.MainSaga.60.1=Cabba: Let's do our best
+dbc.MainSaga.60.2=Cabba: You seem very strong
+dbc.MainSaga.60.d=Cabba: No.. NO! I can't....
+dbc.MainSaga.61.1=Cabba: This is the power of a Super Saiyan?
+dbc.MainSaga.61.2=Cabba: With this I might be able to...
+dbc.MainSaga.61.d=Cabba: I still.. coudn't win...
+dbc.MainSaga.62.1=Hit: I would suggest to give up.
+dbc.MainSaga.62.2=Hit: Time to make the donuts.
+dbc.MainSaga.62.d=Hit: The job is done.
+
+dbc.MainSaga.64.1=Monaka: Wuah!
+dbc.MainSaga.64.2=Monaka: AHAHAHA!
+dbc.MainSaga.64.d=Monaka: GUAH
+dbc.MainSaga.65.1=Copy Vegeta: Stand aside, I want to fight Kakarot.
+dbc.MainSaga.65.2=Copy Vegeta: Heh, so you think you can defeat me?
+dbc.MainSaga.65.d=Copy Vegeta: I'll show you the true power of a Saiyan!
+dbc.MainSaga.66.1=Copy Vegeta: Heh, I must say I'm actually impressed, but this fight ends here! HAH!
+dbc.MainSaga.66.2=Copy Vegeta: HAAAAAAH! Time to end this.
+dbc.MainSaga.66.d=Copy Vegeta: B-but how?
+
+
+dbc.MainSaga.68.1=Goku Black: Have I traveled to the past?
+dbc.MainSaga.68.2=Goku Black: This time ring really is amazing.
+dbc.MainSaga.68.d=Goku Black: W-what? I'm getting pulled back to the future!
+dbc.MainSaga.70.1=Zamasu: Very well, let's fight.
+dbc.MainSaga.70.2=Zamasu: Alright, let's go.
+dbc.MainSaga.70.d=Zamasu: W-what, how can a mortal over power a god?
+dbc.MainSaga.71.1=Goku Black: Hello... mortal. I hope you have gotten stronger- for your sake.
+dbc.MainSaga.71.2=Goku Black: Hello again, foolish mortal. Do you still believe that you can defeat a god?
+dbc.MainSaga.71.d=Goku Black: What strength, but now.. let me show you mine!
+dbc.MainSaga.72.1=Goku Black: So, what do you think of this color? Let's call this Super Saiyan Rosé!
+dbc.MainSaga.72.2=Goku Black: Isn't this color beautiful? Let's call it Rosé. Yes... Super Saiyan Rosé!
+dbc.MainSaga.72.d=Goku Black: Is this all the power you have?
+dbc.MainSaga.75.1=Future Zamasu: Do we really have to do this again?
+dbc.MainSaga.75.2=Goku Black: I can still get more stronger!
+dbc.MainSaga.75.d=Future Zamasu: FOLISH MORTAL!
+dbc.MainSaga.75.2d=Goku Black: W-WHAT? HOW?
+
+dbc.MainSaga.77.1=Fused Zamasu: I am justice given form!
+dbc.MainSaga.77.2=Fused Zamasu: A mortal does not tell a god what to do!
+dbc.MainSaga.77.d=Fused Zamasu: GUEHH...
+dbc.MainSaga.78.1=Fused Zamasu: You will not get away with this!
+dbc.MainSaga.78.2=Fused Zamasu: You will pay for your crimes!
+dbc.MainSaga.78.d=Fused Zamasu: AAAAAAAAAH! This is the end for you!
+dbc.MainSaga.79.1=Fused Zamasu: Mortals MUST LEARN THEIR PLACE!
+dbc.MainSaga.79.2=Fused Zamasu: DAMN MORTAL!
+dbc.MainSaga.79.d=Fused Zamasu: NOOOOO!
+
+dbc.MainSaga.81.1=Hit: You... again?
+dbc.MainSaga.81.2=Hit: We can make a deal, if you hide away then I can say that I've killed you..
+dbc.MainSaga.81.d=Hit: I'm impressed by your power!
+
+
+dbc.sidesagas.101.talkok=No Problem
+dbc.sidesagas.101.talk=Thank you for stopping the Saibamen threat.
+
+dbc.sagasystem.freeza=Frieza Saga
+dbc.sagasystem.saiyan=Saiyan Saga
+dbc.sagasystem.android=Android Saga
+dbc.sagasystem.buu=Buu Saga
+dbc.sagasystem.beerus=Beerus Saga
+dbc.sagasystem.gfreeza=Golden Freeza Saga
+dbc.sagasystem.universe6=Universe 6 Saga
+dbc.sagasystem.cvegeta=Copy Vegeta Saga
+dbc.sagasystem.dbsftrunks=Future Trunks Saga
+dbc.sagasystem.credits=Credits
+dbc.sagasystem.0.title=Welcome to Dragon Block C
+dbc.sagasystem.0.desc=This is an alternative story based on the Dragon Ball universe, so while it might resamble parts of the original story it is completly different. Because this is your story!/n/nYou feel an unpleasant energy! Are you prepared for this?
+dbc.sagasystem.0.obj=Click Start to begin the Main Saga
+dbc.sagasystem.1.title=What? Saiyans? Are they edible?
+dbc.sagasystem.1.desc=Kill saibamen to get more information. They can be found in the Rocky Biome.
+dbc.sagasystem.1.obj=Kill 6 saibamen.
+dbc.sagasystem.2.title=A Saiyan Named Raditz!
+dbc.sagasystem.2.desc=Raditz arrived on Earth looking for his brother, who was sent here as a baby.
+dbc.sagasystem.2.obj=Kill Raditz.
+dbc.sagasystem.3.title=Stronger Saiyans?
+dbc.sagasystem.3.desc=Raditz told you that there are two more saiyans on their way, far more powerful than he was.
+dbc.sagasystem.3.obj=Kill 12 more saibamen.
+dbc.sagasystem.4.title=The Saiyans Arrive!
+dbc.sagasystem.4.desc=The saiyans have arrived and want to eradicate Earth. Don't let them!
+dbc.sagasystem.4.obj=Defeat Them!
+dbc.sagasystem.5.title=Vegeta Escaped!
+dbc.sagasystem.5.desc=Travel to Namek, if you want a greater challenge... You will get it there >)
+dbc.sagasystem.5.obj=Go to Namek with a Spacepod
+dbc.sagasystem.6.title=The Galactic Tyrant!
+dbc.sagasystem.6.desc=There are soldiers everywhere on Namek! Where do they come from, and why?
+dbc.sagasystem.6.obj=Kill 12 of Frieza's Soldiers.
+dbc.sagasystem.7.title=A New Danger!
+dbc.sagasystem.7.desc='What is this? Stronger than me? No way! There is no one stronger!'
+dbc.sagasystem.7.obj=Defeat Cui!
+dbc.sagasystem.8.title=Frieza's Henchmen!
+dbc.sagasystem.8.desc='You'll pay for interferring with our plans!'
+dbc.sagasystem.8.obj=Defeat Dodoria!
+dbc.sagasystem.9.title=Fabulous Zarbon!
+dbc.sagasystem.9.desc=This Zarbon guy seems about as strong as Dodoria... this shouldn't be too hard.
+dbc.sagasystem.9.obj=Defeat Zarbon!
+dbc.sagasystem.10.title=The Ginyu Force!
+dbc.sagasystem.10.desc='Recoome!','Burter!,'Jeice','Guldo','Captain Ginyu'... All of us together are... The Ginyu Force!
+dbc.sagasystem.10.obj=Defeat the Ginyu Force!
+dbc.sagasystem.11.title=He Won't Forgive!
+dbc.sagasystem.11.desc='You destroyed my plans, my wish! Now then, how would you like to die?'
+dbc.sagasystem.11.obj=Fight Frieza!
+dbc.sagasystem.12.title=Return Home
+dbc.sagasystem.12.desc=Frieza's been defeated... it's time to go home.
+dbc.sagasystem.12.obj=Land on Earth.
+dbc.sagasystem.13.title=Isn't Frieza Dead?
+dbc.sagasystem.13.desc=You sensed a large Ki heading straight towards Earth... it can't be... it's him!
+dbc.sagasystem.13.obj=The power seems to be going towards the nearest plains biome! Go investigate!
+dbc.sagasystem.14.title=Frieza Arrives!
+dbc.sagasystem.14.desc=Frieza's ship is here and his men are going to attack the planet! Defeat them!
+dbc.sagasystem.14.obj=Defeat Frieza's men.
+dbc.sagasystem.15.title=Father of the Tyrant!
+dbc.sagasystem.15.desc=Frieza's been rejuvenated with mechanical upgrades- and he's brought his cold-hearted father along too!
+dbc.sagasystem.15.obj=Defeat Frieza and his father.
+dbc.sagasystem.16.title=The Legend...
+dbc.sagasystem.16.desc=You heard rumors of it on Namek, the legendary transformation known as Super Saiyan. A Saiyan with unbelievable power seen once every 1,000 years!
+dbc.sagasystem.16.obj=Become the legend...!
+dbc.sagasystem.17.title=A Bad Omen...
+dbc.sagasystem.17.desc=Kami's contacted you telepathically, he wants to speak with you in person.
+dbc.sagasystem.17.obj=Talk to Kami.
+dbc.sagasystem.18.title=Something is wrong!
+dbc.sagasystem.18.desc=What could it be, what is Kami so afraid of? Let's hope it's not as bad as he says it is.
+dbc.sagasystem.18.obj=Find a Rocky Biome.
+dbc.sagasystem.19.title=Artifical Humans?
+dbc.sagasystem.19.desc=Two powerful beings have appeared, claiming to be cyborgs. You can't sense their energy and they seem incredibly dangerous!
+dbc.sagasystem.19.obj=Fight the cyborgs.
+dbc.sagasystem.20.title=More Cyborgs?
+dbc.sagasystem.20.desc=That Cyborg #20 escaped, talking about awakening two more androids far stronger than he ever was. You have to train to defeat them! Kami mentioned something about a special room in the lookout...
+dbc.sagasystem.20.obj=Enter the Room of Spirit and Time.
+dbc.sagasystem.21.title=#17 and #18
+dbc.sagasystem.21.desc=According to Kami, the cyborgs have arrived in a plains biome.
+dbc.sagasystem.21.obj=Find the cyborgs.
+dbc.sagasystem.22.title=Cyborg #20 was a scientist named Dr. Gero...
+dbc.sagasystem.22.desc=Gero activated the cyborgs, only to be killed! Now they seem to want to fight you!
+dbc.sagasystem.22.obj=Fight #18
+dbc.sagasystem.23.title=Mysterious Bio-Android!
+dbc.sagasystem.23.desc=What is this? It doesn't seem to be a cyborg, but it is really strong.
+dbc.sagasystem.23.obj=Fight the creature.
+dbc.sagasystem.24.title=A creature named Cell.
+dbc.sagasystem.24.desc=The creature is named Cell... he comes from a future timeline where the Androids no longer existed. Now he's here to obtain perfection! You tried to stop him, but he escaped! Go after him!
+dbc.sagasystem.24.obj=Find a rocky biome.
+dbc.sagasystem.25.title=The Gentle Giant
+dbc.sagasystem.25.desc=#16 wants to protect #17 from you and Cell, you have to defeat them to save the world!
+dbc.sagasystem.25.obj=Defeat the cyborgs!
+dbc.sagasystem.26.title=P is for perfect.
+dbc.sagasystem.26.desc=Cell has absorbed #17 and achieved his perfection! You have to try to stop him!
+dbc.sagasystem.26.obj=Fight Cell!
+dbc.sagasystem.27.title=Surpassing a Super Saiyan?
+dbc.sagasystem.27.desc=Super Saiyan isn't enough... you need to surpass it and go even further beyond! Is it even possible?
+dbc.sagasystem.27.obj=Transform beyond Super Saiyan...
+dbc.sagasystem.28.title=The Cell Games
+dbc.sagasystem.28.desc=Cell has announced a tournament to decide the fate of the world! You have to defeat him and save the planet!
+dbc.sagasystem.28.obj=Find a plains biome.
+dbc.sagasystem.29.title=Cell Juniors?!
+dbc.sagasystem.29.desc=Cell has sprouted several offspring! They're each as strong as him! Defeat them!
+dbc.sagasystem.29.obj=Destroy the Cell Juniors!
+dbc.sagasystem.30.title=The Final Showdown!
+dbc.sagasystem.30.desc=Use the last of your power and destroy Cell at last!
+dbc.sagasystem.30.obj=Kill Cell!
+dbc.sagasystem.31.title=A New Threat?!
+dbc.sagasystem.31.desc=King Kai has warned you about urgent trouble! He says that an evil sorcerer named Babidi is trying to revive the greatest evil the universe has ever known: Majin Buu. Stop him! He's landed in a plains biome.
+dbc.sagasystem.31.obj=Find Babidi's ship!
+dbc.sagasystem.32.title=Babidi's First Minion
+dbc.sagasystem.32.desc=Pui-Pui, is here to fight you! Take him out!
+dbc.sagasystem.32.obj=Defeat Pui-Pui
+dbc.sagasystem.33.title=The Light Eater!
+dbc.sagasystem.33.desc=Babidi releases his monster: Yakon. Don't let him get near you!
+dbc.sagasystem.33.obj=Defeat Yakon!
+dbc.sagasystem.34.title=The Demon King!
+dbc.sagasystem.34.desc=Babidi has sent his right hand man, Dabura, to fight you. He is much stronger than the others!
+dbc.sagasystem.34.obj=Defeat Dabura!
+dbc.sagasystem.35.title=Unforseen Events
+dbc.sagasystem.35.desc=Dabura used your battle as a chance to absorb your energy for Majin Buu! It was enough to revive him and he is... not what you were expecting. Is this creature really Majin Buu? He's a fat fool! And he's turned Dabura into a cookie?!
+dbc.sagasystem.35.obj=Fight Majin Buu
+dbc.sagasystem.36.title=To Go Further Beyond!
+dbc.sagasystem.36.desc=Super Saiyan and Super Saiyan 2... they aren't enough anymore. It's time to bust out a level of power beyond them both.
+dbc.sagasystem.36.obj=Ascend to Super Saiyan Level Three!
+dbc.sagasystem.37.title=Super Saiyan 3 VS. Buu!
+dbc.sagasystem.37.desc=Use your new power to defeat Buu!
+dbc.sagasystem.37.obj=Defeat Majin Buu!
+dbc.sagasystem.38.title=The Evil of Buu
+dbc.sagasystem.38.desc=After your fight, Buu killed Babidi and swore off his evil ways! It looked as if he'd really turned good! So why do you feel such a wicked power?
+dbc.sagasystem.38.obj=Find a plains biome.
+dbc.sagasystem.39.title=The Super Majin
+dbc.sagasystem.39.desc=Majin Buu's transformed! He's skinnier and much more powerful... and much more deadly! You have to stop him again!
+dbc.sagasystem.39.obj=Fight Majin Buu!
+
+dbc.sagasystem.40.title=The New Buu!
+dbc.sagasystem.40.desc=Oh no! Majin Buu has absorbed Gotenks and Piccolo! His power has skyrocketed! You have to stop him before it's too late!
+dbc.sagasystem.40.obj=Fight Majin Buu!
+dbc.sagasystem.41.title=Fusion Gone Wrong!
+dbc.sagasystem.41.desc=The fusion has worn off inside of Buu! You have to defeat him while he's still weak!
+dbc.sagasystem.41.obj=Fight Majin Buu!
+dbc.sagasystem.42.title=The Strongest Buu!
+dbc.sagasystem.42.desc=Gohan arrived ready to help you, but was quickly absorbed by Buu! Now he's stronger than ever!
+dbc.sagasystem.42.obj=Fight Majin Buu!
+dbc.sagasystem.43.title=Kid Buu
+dbc.sagasystem.43.desc=Goku and Vegeta were absorbed after their fusion! Luckily, they managed to put up a barrier and save everyone! Except... Buu's power isn't going down as much as it should?! You have to stop him once and for all!
+dbc.sagasystem.43.obj=Defeat Majin Buu!
+dbc.sagasystem.44.title=The End...?
+dbc.sagasystem.44.desc=Buu's energy... it has finally vanished. The fight is finally over.
+dbc.sagasystem.44.obj=Enjoy your new peaceful life...
+
+dbc.sagasystem.45.title=Supreme Kai's Warning
+dbc.sagasystem.45.desc=The Supreme Kai says that a being known as the 'God of Destruction' has awoken! He says not to fight him at all costs and to not anger him! That shouldn't be too hard! Though... maybe he'd like to spar?
+dbc.sagasystem.45.obj=
+dbc.sagasystem.46.title=The God of Destruction
+dbc.sagasystem.46.desc=Okay, maybe asking him to spar wasn't the best idea after Buu ate all the pudding cups. You have to stop Beerus before he destroys the Earth!
+dbc.sagasystem.46.obj=Fight Beerus!
+dbc.sagasystem.47.title=Am I... a God?
+dbc.sagasystem.47.desc=Beerus kept talking about something called a 'Super Saiyan God' that would be his rival... thanks to Shenron now we know how to transform into one.
+dbc.sagasystem.47.obj=Ascend into godhood!
+dbc.sagasystem.48.title=Battle of Gods
+dbc.sagasystem.48.desc=It's time to show off your new strength! Stop Beerus before he destroys the planet!
+dbc.sagasystem.48.obj=Stop Beerus at all costs!
+dbc.sagasystem.49.title=Godly Training
+dbc.sagasystem.49.desc=Beerus fell asleep once again, so for now we won't have to worry about Earth getting destroyed. Still... that doesn't mean that it's completely safe. You asked Whis, Beerus's caretaker, if he could start training you in return of giving him delicious food.
+dbc.sagasystem.49.obj=Train with Whis!
+
+dbc.sagasystem.50.title=Resurrection F
+dbc.sagasystem.50.desc=Frieza's been revived by the Dragon Balls and he's coming back to Earth to take his revenge! You have to stop him once more!
+dbc.sagasystem.50.obj=Fight Freeza's Soldiers
+dbc.sagasystem.51.title=The Horned Beast
+dbc.sagasystem.51.desc=The other soldiers seemed pretty weak as per usual... but this guy is different.
+dbc.sagasystem.51.obj=Fight Shisami!
+dbc.sagasystem.52.title=Ginyu Returns!
+dbc.sagasystem.52.desc=Another of Frieza's soldiers, Tagoma, has killed Shisami. He was much stronger, but now Captain Ginyu has taken his body! How has he survived this long?!
+dbc.sagasystem.52.obj=Fight Ginyu!
+dbc.sagasystem.53.title=Frieza's Revenge!
+dbc.sagasystem.53.desc=Frieza is the only one left, but he is far more stronger than last time...
+dbc.sagasystem.53.obj=Fight Frieza
+dbc.sagasystem.54.title=Feeling Blue
+dbc.sagasystem.54.desc=Hopefully your training with Whis has paid off. It's possible to combine the power of a God with that of your Super Saiyan state, transforming into a Super Saiyan God Super Saiyan!
+dbc.sagasystem.54.obj=Transform into a Super Saiyan God Super Saiyan! ...And maybe think up a shorter name.
+dbc.sagasystem.55.title=Golden Frieza!
+dbc.sagasystem.55.desc=Frieza said he'd trained for six months, but this power gain is far beyond what would be reasonable in that time. You have to stop Frieza! Luckily, it looks like he didn't train his transformation before he returned.
+dbc.sagasystem.55.obj=Defeat Golden Frieza!
+
+dbc.sagasystem.56.title=Universe 6?
+dbc.sagasystem.56.desc=After the fight with Frieza, another God of Destruction showed up! He calls himself Champa and he looks like a portly version of Beerus! The two got into a pretty big fight, before Goku offered the suggestion of a tournament to resolve things! As it turns out, you were picked for the team!
+dbc.sagasystem.56.obj=
+dbc.sagasystem.57.title=Match 1: Botamo
+dbc.sagasystem.57.desc=Every member of the team passed the written test for the tournament; now it's time for the first battle.
+dbc.sagasystem.57.obj=Defeat Botamo
+dbc.sagasystem.58.title=Match 2: Frost
+dbc.sagasystem.58.desc=Another Frost Demon? And here you'd just defeated the last one. Could a Frieza from another universe actually be different?
+dbc.sagasystem.58.obj=Defeat Frost
+dbc.sagasystem.59.title=Match 3: Magetta
+dbc.sagasystem.59.desc=A big metal man. He seems like a bigger threat then Frost, all things considered.
+dbc.sagasystem.59.obj=Defeat Magetta
+dbc.sagasystem.60.title=Match 4: Cabba
+dbc.sagasystem.60.desc=Universe 6 has a Planet Vegeta? Not only that, they have Saiyans?!
+dbc.sagasystem.60.obj=Defeat! Cabba
+dbc.sagasystem.61.title=Another Super Saiyan!
+dbc.sagasystem.61.desc=After being pressured, Cabba finally snapped and transformed into a Super Saiyan! Now this should be fun!
+dbc.sagasystem.61.obj=Fight Super Saiyan Cabba!
+dbc.sagasystem.62.title=Match 5: Hit
+dbc.sagasystem.62.desc=The mysterious assassin Hit... he seems strong.
+dbc.sagasystem.62.obj=Defeat Hit!
+dbc.sagasystem.63.title=Childlike Wonder
+dbc.sagasystem.63.desc=Hit managed to defeat you, but thanks to the 'strong' Monaka of Universe 7, we managed to win the tournament! However from out of nowhere, Grand Zeno, the Omni King, appears! He watched the tournament and wants to create one of his own- with every universe! That should be... fun?
+dbc.sagasystem.63.obj=
+
+dbc.sagasystem.64.title=Mysterious Monaka!
+dbc.sagasystem.64.desc=Monaka seems like a strong, but mysterious, fighter. Let's see how strong he really is!
+dbc.sagasystem.64.obj=Fight 'Monaka'!
+dbc.sagasystem.65.title=Trouble for Vegeta!
+dbc.sagasystem.65.desc=Something had happened to Vegeta, and now he's becomming transparent?! Not only that, but a purple dopplegander has appeared. Looks like the only way to save Vegeta is to defeat this... Copy Vegeta!
+dbc.sagasystem.65.obj=Defeat Copy Vegeta!
+dbc.sagasystem.66.title=Copy Vegeta... in Blue?!
+dbc.sagasystem.66.desc=Looks like he's taken more than Vegeta's looks!
+dbc.sagasystem.66.obj=Defeat Copy Vegeta!
+
+dbc.sagasystem.67.title=A Crisis!
+dbc.sagasystem.67.desc=Looks like everything's back to normal again... well, until Trunks's time machine returns out of nowhere! He says that the future is in crisis and a terrible enemy has appeared... a man who bears the same face as Goku.
+dbc.sagasystem.67.obj=
+dbc.sagasystem.68.title=Goku... Black
+dbc.sagasystem.68.desc=Not long after Trunks returned, a portal opened, and the mysterious 'Goku Black' came through it! Looks like he wants to fight!
+dbc.sagasystem.68.obj=Fight Goku Black!
+dbc.sagasystem.69.title=A Time Ring?
+dbc.sagasystem.69.desc=During your fight, Beerus and Whis noticed Goku Black wearing a mysterious object known as a time ring! Before anything could be figured out, a portal opened and Black was forcefully pushed back to the future! Unfortunately, he destroyed the time machine before doing so!
+dbc.sagasystem.69.obj=
+
+dbc.sagasystem.70.title=A Man Named Zamasu
+dbc.sagasystem.70.desc=Beerus and Whis go to investigate in Universe 11. Apparently, the Supreme Kai apprentice of the 10th universe has a very familiar aura to this Black. Maybe a sparring match will shed some light on things!
+dbc.sagasystem.70.obj=Fight Zamasu!
+
+dbc.sagasystem.71.title=A Black Future
+dbc.sagasystem.71.desc=Thankfully, the time machine was repaired by Bulma! Now you must travel to the future and defeat Goku Black once and for all!
+dbc.sagasystem.71.obj=Fight Goku Black!
+dbc.sagasystem.72.title=Super Saiyan Rosé
+dbc.sagasystem.72.desc=Not only is Black stronger than before, but he has a new transformation to boot! He calls it Super Saiyan Rosé... and it's on par with your own godly powers!
+dbc.sagasystem.72.obj=Fight Goku Black!
+dbc.sagasystem.73.title=Seeing Double
+dbc.sagasystem.73.desc=After fighting for a while, Zamasu suddenly appears! But, it's not the same Zamasu as before, this one is immortal and bears a green earring to match Black's! You need to get back to the past and figure things out!
+dbc.sagasystem.73.obj=
+dbc.sagasystem.74.title=Hakai
+dbc.sagasystem.74.desc=After seeing that Zamasu did take part in the future's destruction, Beerus decided to take him out using the 'Hakai'. Beerus gave his word that with this the future is also saved.
+dbc.sagasystem.74.obj=
+dbc.sagasystem.75.title=Back to the Future
+dbc.sagasystem.75.desc=Looks like even gods are wrong sometime. You didn't feel confident that the future was truly saved, and, upon returning you realized your concern was well placed! Goku Black and Zamasu are still there!
+dbc.sagasystem.75.obj=Fight Goku Black & Zamasu!
+dbc.sagasystem.76.title=The Half-Saiyan's Rage!
+dbc.sagasystem.76.desc=The duo are still too strong! Luckily, Trunks was able to transform into a new version of Super Saiyan! With this power, he was able to hold them off to allow you to return home!
+dbc.sagasystem.76.obj=
+dbc.sagasystem.77.title=A Fused Nightmare
+dbc.sagasystem.77.desc=You can't leave Trunks in the future on his own, and, after a bit more training you must go back to stop Zamasu! Unfortunately, when you return they decide to fuse! Now they're even stronger than before!
+dbc.sagasystem.77.obj=Fight Fused Zamasu!
+dbc.sagasystem.78.title=Instability
+dbc.sagasystem.78.desc=You managed to destroy Zamasu's barrier of light, but, he seems to becoming more and more unstable...
+dbc.sagasystem.78.obj=Fight Zamasu!
+dbc.sagasystem.79.title=Save The Future!
+dbc.sagasystem.79.desc=Zamasu's anger is only fueling his power! You need to stop him once and for all!
+dbc.sagasystem.79.obj=Defeat Zamasu!
+dbc.sagasystem.80.title=A Timeline Destroyed
+dbc.sagasystem.80.desc=Zamasu lost but, somehow, he managed to merge with the world itself and started to expand in the universe. Goku, using a button given to him by Zeno, summons the powerful being! However, it was his Future counterpart! This Future Zeno decides to erase the world. Luckily, you've managed to flee to the past with the others, but the future has been destroyed. Thankfully for Trunks though, Whis decided to take him to a future timeline where Black never existed- letting a future Beerus know about Black's plan to prevent the problem from starting again.
+dbc.sagasystem.80.obj=
+
+dbc.sagasystem.81.title=Assassination
+dbc.sagasystem.81.desc=You decided to hire Hit to have a second chance to fight him, but this time with his full power!
+dbc.sagasystem.81.obj=Fight Hit!
+
+
+dbc.sagasystem.82.title=The End
+dbc.sagasystem.82.desc=Thank you for playing Dragon Block C!/nI would like to take a moment to thank all of those who have helped develop the mod to this point, and who still help it continue to grow./nYou may replay the saga if you wish. /nAs time goes content grows too!
+dbc.sagasystem.82.obj=Jin Ryuu, and Ben
+
+
+dbc.sagasystem.all.ak=already dead.
+dbc.sagasystem.all.none=none
+dbc.sagasystem.all.one=one
+dbc.sagasystem.all.tk=of them is dead.
+
+dbc.sagasystem.Protect=To Protect
+dbc.sagasystem.Myself=For Myself
+dbc.sagasystem.Evil=For the sake of Evil
+
+dbc.sidesagas.100.story=Saibaiman Invasion
+dbc.sidesagas.100.title=Knowing the Enemy
+dbc.sidesagas.100.desc=Raditz had on himself a few saibai beans that were dropped and hatched a few days later, kill them before its too late.
+dbc.sidesagas.100.obj=Kill 30 Saibaimen.
+dbc.sidesagas.101.title=Report to Kami
+dbc.sidesagas.101.desc=The Saibaiman were pushed back.
+dbc.sidesagas.101.obj=Talk to Kami to finish the mission
+
+
+dbc.entitymasters.insafezone=You are in the Safe Zone of %s!
+dbc.entitymasters.nofightinsafe=Fighting is not allowed in Safe Zones!
+dbc.entitymasters.leftsafe=You left the Safe Zone!
+
+dbc.entity.death.youllregretthis=You will regret this!...
+dbc.packets.notenoughtp=Not enough Training Points!
+
+dbc.timechamber.waitillenter=You must still wait %s before you can enter the Chamber again!
+dbc.timechamber.waitillenter.min=min
+dbc.timechamber.waitillenter.sec=sec
+dbc.timechamber.mustwaitaday=You must wait a minecraft day (20mins) till you can enter the Chamber again.
+
+dbc.worldgen.buildings.beenfound=%s has been found!
+dbc.clienttick.increltouseki=To use Ki, increase release with the %s key!
+
+dbc.com.loc.coords=XYZ Coords
+dbc.com.loc.kami=Korin's Tower and Kami's Lookout: 80 220 60
+dbc.com.loc.kame=Kame House
+dbc.com.loc.kamenotexp=Kame House is not yet explored! It can be found in an ocean biome!
+dbc.com.loc.cell=Cell Arena
+dbc.com.loc.cellnotexp=Cell Arena is not yet explored! It can be found in a plains biome!
+dbc.com.loc.goku=Goku House
+dbc.com.loc.gokunotexp=Goku's House is not yet explored! It can be found in a plains biome!
+dbc.com.loc.babidi=Babidi Ship
+dbc.com.loc.babidinotexp=Babidi's Ship is not yet explored! It can be found in a plains biome!
+dbc.com.loc.freeza=Frieza Ship
+dbc.com.loc.freezanotexp=Frieza's Ship is not yet explored! It can be found in on Namek!
+
+
+
+dbc.itemSenzu.line1=Senzubean will fill your stamina bar and your base ki.
+dbc.ItemDinoMeat.line1=Dino Meat will replenish 500 calorie and 10% Ki.
+dbc.HTC.toolong=You were in Hyperbolic Time Chamber for too long.
+dbc.HTC.how=You will only get JrmcExp if you have BP below
+dbc.HTC.how.2=, TP below
+dbc.HTC.how.3=and you are moving.
+dbc.HTC.how2=You will get JrmcExp till you reach
+dbc.HTC.how2.2=BP or
+dbc.HTC.how2.3=TP, if you move.
+
+jinryuudragonblockc.KABigBang=BigBang Attack
+jinryuudragonblockc.KABlast=Ki Blast
+jinryuudragonblockc.KABurningAtt=Burning Attack
+jinryuudragonblockc.KADeathBeam=Death Beam
+jinryuudragonblockc.KADodon=DodonRay
+jinryuudragonblockc.KAEnergyDisk=Destructo Disk
+jinryuudragonblockc.KAFinalFlash=Final Flash
+jinryuudragonblockc.KAFingerLeser=Finger Laser
+jinryuudragonblockc.KAGalicGun=Galic Gun
+jinryuudragonblockc.KAHame=KameHameHa
+jinryuudragonblockc.KAHame10x=KameHameHa x10
+jinryuudragonblockc.KAMakanko=Makankosappo
+jinryuudragonblockc.KAMasenko=Masenko
+jinryuudragonblockc.KAPlanetDest=Supernova
+jinryuudragonblockc.KASpiritbomb=SpiritBomb
+jinryuudragonblockc.KTKaioken=Kaio-Ken
+jinryuudragonblockc.KAFakeMoon=Power Ball
+
+dbc.moreevil.line1=You've become more Evil!
+jinryuudragonblockc.StrainRemoved=Strain has been healed!
+
+jinryuudragonblockc.Concentration=Concentration
+jinryuudragonblockc.Jump=Jump
+jinryuudragonblockc.Dash=Dash
+jinryuudragonblockc.Fly=Fly
+jinryuudragonblockc.Endurance=Endurance
+jinryuudragonblockc.Endurance=Endurance
+jinryuudragonblockc.PotentialUnlock=Potential Unlock
+jinryuudragonblockc.NamekRegeneration=Namek Regeneration
+jinryuudragonblockc.Meditation=Meditation
+jinryuudragonblockc.Kaioken=Kaioken
+jinryuudragonblockc.KiSense=Ki Sense
+jinryuudragonblockc.GodForm=God Form
+jinryuudragonblockc.KiProtection=Ki Protection
+jinryuudragonblockc.KiFist=Ki Fist
+jinryuudragonblockc.KiBoost=Ki Boost
+jinryuudragonblockc.DefensePenetration=Defense Penetration
+jinryuudragonblockc.KiInfuse=Ki Infuse
+jinryuudragonblockc.HealSelf=Heal Self
+jinryuudragonblockc.GodKi=God Ki
+jinryuudragonblockc.FriendlyFist=Friendly Fist
+jinryuudragonblockc.KiSword=Ki Blade
+jinryuudragonblockc.KiScythe=Ki Scythe
+
+jinryuudragonblockc.JumpDesc=The Skill Jump allows you to jump higher and also give fall damage protection if fallen less then 100 blocks.
+jinryuudragonblockc.DashDesc=The Skill Dash allows you to run faster and gives the ability to dodge to left, back or right by holding "2nd fn key" + 'A, S or D'. (not stackable). You can turn Dodge on/off in action menu. 
+jinryuudragonblockc.FlyDesc=With Skill Fly you are able to fly by pressing the Energy Control/Flight key while in air, additionally by holding "2nd fn key" + "Forward" will allow you to use a 'short speed burst', its called swoop and you can turn it on/off in action menu. 
+jinryuudragonblockc.EnduranceDesc=The Skill Endurance gives you additional percentage based incoming damage reduction.
+jinryuudragonblockc.PotentialUnlockDesc=The Skill Potential Unlock allows you to Release Energy above 50%, with each level giving access to 5% of Energy Release
+jinryuudragonblockc.NamekRegenerationDesc=The Skill Namek Regeneration is only usable by Namekians. This allows them a higher healing rate then other races inexchange for Energy.
+jinryuudragonblockc.MeditationDesc0=The Skill Meditation, Active. Energy recharge is possible when holding the Energy Release key
+jinryuudragonblockc.MeditationDesc1=The Skill Meditation, Passive. Further increased regeneration rate for Energy and Body stats.
+jinryuudragonblockc.KaiokenDesc=The Skill Kaioken gives the user the Kaioken transformation state. Accessible in Action menu. 
+jinryuudragonblockc.KiSenseDesc=The Skill Ki Sense allows you to see the power of other players. Increasing this will allow more details, including comparing lines on sides. Change modes with "Scouter Functions" key (default F4)
+jinryuudragonblockc.GodFormDesc=The Skill God Form will give access to forms with Godly Ki and the possibilty to sense the exact power of others when they are in God forms. Forms accessible in Action menu.
+jinryuudragonblockc.KiProtectionDesc=The Skill Ki Protection gives extra defense in exchage for ki.
+jinryuudragonblockc.KiFistDesc=The Skill Ki Fist gives extra melee damage in exchage for ki
+jinryuudragonblockc.KiBoostDesc=The Skill Ki Boost gives extra Ki to the Max Ki
+jinryuudragonblockc.DefensePenetrationDesc=The Skill Defense Penetration will ignore a percentage from the opponent's defense but that percentage of damage will always be dealt minimum. Each upgrade gives 1%
+jinryuudragonblockc.KiInfuseDesc=The Skill Ki Infuse allows to infuse ki into projectiles, thus increasing their damage. Each upgrade gives 0.5% damage from attribute Willpower.
+
+jinryuudragonblockc.Single=Single
+jinryuudragonblockc.Explosive=Explosive
+jinryuudragonblockc.AOE=AOE
+
+jinryuudragonblockc.HiddenPotential=Human Potential
+jinryuudragonblockc.SuperForm=Super Form
+jinryuudragonblockc.PowerBoost=Power Boost
+jinryuudragonblockc.Transformations=Transformations
+jinryuudragonblockc.HiddenPotentialDesc=Racial Skill for Humans. They receive power buffs.
+jinryuudragonblockc.SuperFormDesc=Racial Skill for Saiyans and Half-Saiyans. Unlocks many new forms for them.
+jinryuudragonblockc.PowerBoostDesc=Racial Skill for Namekians. They receive power buffs.
+jinryuudragonblockc.TransformationsDesc=Racial Skill for Arcosians. Can Unlock new forms and increase the limit of their Power Points, an Arcosian only feature that gives additional power boost at 100% Energy Release if they have PP.
+
+jinryuudragonblockc.Fusion=Fusion
+jinryuudragonblockc.FusionDesc=The Skill Fusion gives the ability to fuse 2 players. The Spectator player's stats will fuse into the Control player's stats. Accessible in Action menu.
+jinryuudragonblockc.playersFused=%1$s and %2$s are now %3$s because of Fusion Dance!
+jinryuudragonblockc.playersFuseFaild=Fusion failed for %1$s and %2$s!
+jinryuudragonblockc.fusedspectator=You are Spectator atm! Only Control player can do stuff!
+jinryuudragonblockc.cantupgradef=No learning or upgrades allowed while fused!
+
+jinryuudragonblockc.majinGet=Subject Yourself
+jinryuudragonblockc.majinLoose=Cleanse
+
+jinryuudragonblockc.PURitual=Old Kai's Ritual
+jinryuudragonblockc.OldKaiUnlock=Potential Unleashed
+jinryuudragonblockc.OldKaiUnlockDesc=The Skill Potential Unleashed unlocks the Mystic form. Accessible in Action menu.
+jinryuudragonblockc.UltraInstinct=Ultra Instinct
+jinryuudragonblockc.UltraInstinctDesc=The Skill Ultra Instinct unlocks the possibility to access the Ultra Instinct state. Achieving this state is rare amongst even gods and it's hard to master it. Accessible in Action menu.
+
+
+
+dbc.skill.jump.name=Jump
+dbc.skill.dash.name=Dash
+dbc.skill.fly.name=Flying
+dbc.skill.over.name=Potential Unlock
+dbc.skill.endu.name=Endurance
+
+dbc.saagui.abilities=Abilities
+dbc.saagui.sagasystem=Saga System
+dbc.saagui.trainingpoints=Training Points
+dbc.saagui.body=Body 
+dbc.saagui.maxki=Spirit 
+dbc.saagui.chargeki=Charge Rate 
+dbc.saagui.dash=Dash 
+dbc.saagui.punch=Punch 
+dbc.saagui.jump=Jump 
+dbc.saagui.fly=Flight 
+dbc.saagui.ascending=Ascending 
+dbc.saagui.attackpower=Attack Power 
+dbc.saagui.selecthair=Select Hair
+dbc.saagui.forgetattacks=Forget learned Ki Attacks
+dbc.saagui.next=Next
+dbc.saagui.back=Back
+dbc.saagui.accept=Accept
+dbc.saagui.Black=Black
+dbc.saagui.White=White
+dbc.saagui.Purple=Purple
+dbc.saagui.Red=Red
+dbc.saagui.Brown=Brown
+dbc.saagui.Orange=Orange
+dbc.saagui.Green=Green
+dbc.saagui.Cyan=Cyan
+dbc.saagui.Blue=Blue
+dbc.saagui.curexp=Current DBC Experience:
+dbc.saagui.exptp=5 DBC Exp = 1 Training Point
+dbc.saagui.newskill=You have learned a New Skill!
+
+jinryuudragonblockc.Earth=Earth
+jinryuudragonblockc.Namek=Namek
+jinryuudragonblockc.OtherWorld=Otherworld
+jinryuudragonblockc.Vegeta=Vegeta
+jinryuudragonblockc.TimeChamber=Hyperbolic Time Chamber
+
+dbc.wishgui.diamonds=Diamonds
+dbc.wishgui.chip=Tier 1 Chip
+dbc.wishgui.warcryst=Warenai Crystal
+dbc.wishgui.senzu=Senzubean
+dbc.wishgui.kshard=Katchin Shard
+dbc.wishgui.younger2=2 MC Years Younger
+dbc.wishgui.younger6=6 MC Years Younger
+jinryuudragonblockc.wishrevive=Revive a player
+jinryuudragonblockc.wishreviveS=Revive %1$s
+jinryuudragonblockc.wishreviventp=Revive and bring here
+jinryuudragonblockc.wishreviventpS=Revive %1$s and bring here
+jinryuudragonblockc.wishreviveall=Revive all %1$s players
+jinryuudragonblockc.wishtptoplanet=Teleport to a Planet
+jinryuudragonblockc.wishyoung=I want to be Young
+jinryuudragonblockc.wishchild=I want to be a Child
+jinryuudragonblockc.wishold=I want to be Old
+jinryuudragonblockc.reviveoffered=You have been offered a revive with teleport to %2$s at %3$s by %1$s. To accept type /dbc accept
+jinryuudragonblockc.selectplayer=Select a player for revival.
+jinryuudragonblockc.reviveaccepted=%1$s accepted your revive with teleport offer to %2$s at %3$s.
+jinryuudragonblockc.wishkicolor=Change Aura Color
+jinryuudragonblockc.wisharcultformcolor=Reset Arcosian Ultimate Colors
+jinryuudragonblockc.DodgeSwoop=Dodge/Swoop
+jinryuudragonblockc.error=ERROR
+jinryuudragonblockc.PlaceHolderDontUse=PlaceHolder-DontUse!
+
+dbc.talkgui.kintoun=Get a Flying Nimbus
+dbc.talkgui.kintounblack=Get a Black Flying Nimbus
+dbc.talkgui.learnki=Learn Ki Attacks
+dbc.talkgui.anew=Start Anew
+
+dbc.talkgui.reincarnate=Reincarnate
+dbc.talkgui.stay=Stay in Otherworld
+dbc.talkgui.revfree=Revive
+dbc.talkgui.revivetime=Revive in %4$sd %3$s:%2$s:%1$s
+dbc.talkgui.enmawelcomeG=Welcome to the Otherworld!/n Sadly you died, but don't worry with your alignment you will go to heaven for sure.
+dbc.talkgui.enmawelcomeN=Welcome to the Otherworld!/n You died sadly your alignment is not clear.
+dbc.talkgui.enmawelcomeE=Welcome to the Otherworld!/n Well well what have we here. Evil? Well we have enough space for your kind below.
+dbc.talkgui.enmareincarnate=Reincarnation/n Reincarnating means you will lose everything you have learned and keep only a specific amount of your attributes (%1$s). If this is what you want then confirm it.
+dbc.talkgui.enmareincavilabl=Confirm in %1$s sec
+jinryuudragonblockc.canrevivenow=Go to King Yemma to Revive!
+jinryuudragonblockc.reincarnated=You have been reincarnated!
+jinryuudragonblockc.kisensemode0=Ki Sense Mode: Default
+jinryuudragonblockc.kisensemode1=Ki Sense Mode: Only Players 
+jinryuudragonblockc.kisensemode2=Ki Sense Mode: Only Mobs 
+jinryuudragonblockc.kisensemode3=Ki Sense Mode: Show All
+jinryuudragonblockc.kisensemode4=Ki Sense Off
+
+jinryuudragonblockc.Descend=Descend
+jinryuudragonblockc.AuraColor=Aura Color
+
+item.record.DBC1.name=DB Music Disc
+item.record.DBC2.name=DB Music Disc
+item.record.DBC3.name=DB Music Disc
+item.record.DBC4.name=DB Music Disc
+item.record.DBC5.name=DB Music Disc
+item.record.DBC1.desc=Cha-La-Head-Cha-La
+item.record.DBC2.desc=HERO
+item.record.DBC3.desc=Full-Force Kamehameha
+item.record.DBC4.desc=Ultra Instinct Reborn
+item.record.DBC5.desc=We Gotta Power
+
+dbc.talkgui.line1000=Jin
+dbc.talkgui.line1001=Well hello there!
+dbc.talkgui.line1002=I see you still have your phisical body.
+dbc.talkgui.line1003=I would love to spar with you!
+dbc.talkgui.line1004=It is good to see people like
+dbc.talkgui.line1005=you, who fight for the ones
+dbc.talkgui.line1006=in need.
+dbc.talkgui.line1007=So much evil in one being.
+dbc.talkgui.line1008=Im suprised Enma let you through.
+dbc.talkgui.line1009=I still see some great potential in you.
+
+dbc.talkgui.line1010=Grand Elder Guru
+dbc.talkgui.line1011=I sense something great within you.
+dbc.talkgui.line1012=You have great powers young one.
+dbc.talkgui.line1013=With fighters like you I see
+dbc.talkgui.line1014=a great hope for the future.
+dbc.talkgui.line1015=I hope you aren't here for evil
+dbc.talkgui.line1016=purposes.
+
+dbc.talkgui.line1017=Whis
+dbc.talkgui.line1018=Are you perhaps interested in
+dbc.talkgui.line1019=becoming a destroyer?
+dbc.talkgui.line1020=Do you have a new dish
+dbc.talkgui.line1021=you want to show me?
+dbc.talkgui.line1022=Oh my, what an angry fellow.
+dbc.talkgui.line1023=Would you mind not bothering me?
+
+dbc.talkgui.line0000=Kami
+dbc.talkgui.kami1=Wel,l well your heart doesn't seem to be as clear as I had thought. Though, I will still teach you.
+dbc.talkgui.kami0=We are so glad to see you alive! Please if you want to know anything just ask, I can teach you a few things.
+dbc.talkgui.kami2=We don't like your kind, but as I'm the only one who can teach you I will teach if you want.
+
+dbc.talkgui.line0010=King Kai
+dbc.talkgui.kaio1=You don't seem to be that good, but you're a strong fighter! So, as such, I will teach you my techniques.
+dbc.talkgui.kaio0=Oh, you made it! I've waited for you! My techniques will be at their strongest as long as you stay good!
+dbc.talkgui.kaio2=How did you get here? Evil ones like you aren't allowed to step on my planet. I won't teach you anything!
+
+dbc.talkgui.karin.00=Korin
+dbc.talkgui.karin0=Hi there! I'm glad to see you here. Once a day I can give you a Senzu Bean, if you need any.
+dbc.talkgui.karin1=You should purify your heart more. If you go on like this you will become evil and we don't want that, do we?
+dbc.talkgui.karin2=You should go now. You are not welcome here!
+
+dbc.talkgui.line0000=Kami
+dbc.talkgui.line0001=Well, well your heart doesn't seem
+dbc.talkgui.line0002=to be as clear as I had thought.
+dbc.talkgui.line0003=Though, I will still teach you.
+dbc.talkgui.line0004=We are so glad to see you alive!
+dbc.talkgui.line0005=Please if you want to know anything
+dbc.talkgui.line0006=just ask, I can teach you a few things.
+dbc.talkgui.line0007=We don't like your kind, but as 
+dbc.talkgui.line0008=I'm the only one who can teach you
+dbc.talkgui.line0009=I will teach if you want.
+
+dbc.talkgui.line0010=King Kai
+dbc.talkgui.line0011=You don't seem to be that good
+dbc.talkgui.line0012=but you're a strong fighter!
+dbc.talkgui.line0013=So, I will teach you my techniques.
+dbc.talkgui.line0014=Oh, you made it! I've waited for you!
+dbc.talkgui.line0015=My techniques will be at their strongest
+dbc.talkgui.line0016=as long as you stay good!
+dbc.talkgui.line0017=How did you get here? Evil ones like
+dbc.talkgui.line0018=you aren't allowed to step on my
+dbc.talkgui.line0019=planet. I won't teach you anything!
+
+dbc.talkgui.karin.00=Korin
+dbc.talkgui.karin.01=Hi there! I'm glad to see you here.
+dbc.talkgui.karin.02=Once a day I can give you a Senzu Bean,
+dbc.talkgui.karin.03=if you need any.
+dbc.talkgui.karin.04=You should purify your heart more.
+dbc.talkgui.karin.05=If you go on like this you will
+dbc.talkgui.karin.06=become evil and we don't want that, do we?
+dbc.talkgui.karin.07=You should go now.
+dbc.talkgui.karin.08=You are not welcome here!
+dbc.talkgui.karin.09=
+dbc.talkgui.karin.senzu=Ask for Senzubean
+dbc.talkgui.karin.nosenzu=We're all out of em', wait till tomorrow morning.
+
+
+jinryuudragonblockc.KaioDiffRed=After you Confirm, you will still need to wait 1 or 2 minecraft days, and only after that, you will be set back to Normal difficulty. You will see next to your BP a 'N' that indicates your normal status
+dbc.talkgui.difftonormal=Difficulty to Normal
+dbc.talkgui.no=No
+dbc.talkgui.confirm=Confirm
+dbc.talkgui.kami.forcetailregrow=Force Tail Regrow
+dbc.talkgui.kami.cutdowntail=Cut Down Tail
+dbc.talkgui.owned=Owned
+dbc.talkgui.cost=Cost
+dbc.talkgui.mind=Mind
+
+dbc.talkgui.kami.startanew=Start anew with resetting most of your stats.
+dbc.talkgui.kami.confirmtailcut=Confirm that you realy want to cut down your tail.
+dbc.talkgui.kami.tailregrow=You want your tail back? You will loose 100HP and 20TP in the process. Only confirm if you have more then 100HP and 20TP
+
+dbc.talkgui.roshi.goodneut=I will Teach you if you bring me some... you know... hehehe
+dbc.talkgui.cell.evil=It gets boring only waiting here... You seem to have potential to stand against me. I will show you what I know.
+dbc.talkgui.cell.goodneut=Don't stand in my way if you care for your health. So get lost or I'll kill you!
+dbc.talkgui.songoku.goodneut=Hey there I see you need some training! You will have to do better if you want to fight with me.
+dbc.talkgui.songoku.evil=I sense evil from you. You better not do something that you might regret.
+dbc.talkgui.freeza.evil=Bow before my greatness! Join me and I will let you live. For now.
+dbc.talkgui.freeza.else=Get lost! Or Die.
+dbc.talkgui.babidi.evilneut=I sense evil within you my 'friend'. Serve me and I'll grant you power beyond your imagination.
+dbc.talkgui.babidi.good=I hardly sense any evil from you... Its not like you don't have any inside you but I'm not interested in you now.
+dbc.talkgui.babidi.fullgood=Impossible!! I don't sense any evil from you! You must be destroyed!
+dbc.talkgui.piccolo.goodneut=Hm there is potential in you, lets see.
+dbc.talkgui.piccolo.evil=You have the same evil aura I had once... I wont say anything bad, just don't go that way.
+dbc.talkgui.vegeta.goodneut=You have some nerves to talk to me. I don't mind but get lost fast, your in the way.
+dbc.talkgui.vegeta.evil=Shut the hell up, you're annoying!
+dbc.talkgui.songohan.goodneut=Hey there I see you need some training! You will have to do better if you want to fight with me.
+dbc.talkgui.songohan.evil=I sense evil from you. You better not do something that you might regret.
+
+
+dbc.talkgui.skills=Learn Skills
+dbc.talkgui.learntechs=Learn Ki Techniques
+dbc.talkgui.giveweights=Ask for Weight
+
+dbc.talkgui.weightamount=Training weight
+dbc.talkgui.giveweightsdesc=How much should it weigh? The Max is 5000. And 1 training weight is around 100kg. It will only be free temporarily!
+
+tile.ArtGravDevBlock.name=Gravity Device (Max 1000G)
+jinryuudragonblockc.Gravity=Gravity
+jinryuudragonblockc.SetGravity=Set Gravity
+jinryuudragonblockc.OutOfFuel=Out of Fuel
+jinryuudragonblockc.ArtGravDevDesc=The device can generate up to 1000 G
+
+tile.BlockWildMedMoss.name=Wild Medical Moss
+tile.BlockCropMedMoss.name=Medical Moss
+item.ItemMedMoss.name=Medical Moss
+
+item.bodysuit0.name=Bodysuit #1
+item.bodysuit1.name=Bodysuit #2
+item.bodysuit2.name=Bodysuit #3
+item.bodysuit3.name=Bodysuit #4
+item.bodysuit4.name=Bodysuit #5
+item.bodysuit5.name=Bodysuit #6
+item.bodysuit6.name=Bodysuit #7
+item.bodysuit7.name=Bodysuit #8
+
+item.gi0.name=Colorable T-Shirt
+item.gi1.name=Colorable Long Sleeve Shirt
+item.gi2.name=Colorable Shirt
+
+item.gi_color_8Head.name=Colorable Headband
+item.gi_color_9Head.name=Colorable Wide Headband
+item.gi_color_10Chest.name=Colorable Wristbands
+item.gi_color_11Chest.name=Colorable Long Wristbands
+
+item.gi_color_13Chest.name=Blue Jacket
+item.gi_color_14Chest.name=Green Jacket
+
+
+item.gi_color_5Chest.name=Colorable Jacket
+item.gi_color_6Chest.name=Colorable Coat
+item.gi_color_7Chest.name=Colorable One-Shoulder Top Robe
+
+
+item.gi_color_0Chest.name=Colorable Gi Shirt
+item.gi_color_0Leg.name=Colorable Gi Pants
+item.gi_color_0Boots.name=Colorable Shoes
+
+item.gi_color_1Leg.name=Colorable Short Pants
+item.gi_color_2Boots.name=Colorable Long Shoes
+item.gi_color_3Chest.name=Colorable Tied Belt
+item.gi_color_15Chest.name=Colorable Belt
+item.gi_color_16Chest.name=Colorable Wide Belt
+item.gi_color_4Chest.name=Colorable Gloves
+
+item.vanity_d_0.name=Mysterious Scientist's Coat
+item.vanity_d_1.name=Mysterious Scientist's Dress
+item.vanity_d_2.name=Mysterious Scientist's Sleeves
+item.vanity_d_3.name=Mysterious Scientist's Leggings
+item.vanity_d_4.name=Mysterious Scientist's Boots
+item.vanity_d_5.name=Halo
+item.vanity_d_6.name=Angel's Halo
+item.vanity_d_7.name=Barrier of Light
+
+
+item.ItemStrongFabric.name=Strong Fabric
+
+
+item.xenogoku01Chest.name=Xeno Goku's Shirt
+item.xenogoku01Leg.name=Xeno Goku's Pants
+item.xenogoku01Boots.name=Xeno Goku's Boots
+
+
+item.DnomaidSword.name=Dnomaid Sword
+item.DlogSword.name=Dlog Sword
+item.LehnoriSword.name=Lehnori Sword
+item.DnomaidAxe.name=Dnomaid Axe
+item.DlogAxe.name=Dlog Axe
+item.LehnoriAxe.name=Lehnori Axe
+item.DnomaidPick.name=Dnomaid Pickaxe
+item.DlogPick.name=Dlog Pickaxe
+item.LehnoriPick.name=Lehnori Pickaxe
+item.DlogIngot.name=Dlog Ingot
+item.LehnoriIngot.name=Lehnori Ingot
+item.DnomaidIngot.name=Dnomaid Ingot
+item.JJay.name=JJay
+item.LehnoriHelmet.name=Lehnori Helmet
+item.LehnoriChest.name=Lehnori Chest
+item.LehnoriPants.name=Lehnori Pants  
+item.LehnoriBoots.name=Lehnori Boots
+item.DlogHelmet.name=Dlog Helmet
+item.DlogChest.name=Dlog Chest   
+item.DlogPants.name=Dlog Pants     
+item.DlogBoots.name=Dlog Boots
+item.DnomaidHelmet.name=Dnomaid Helmet
+item.DnomaidChest.name=Dnomaid Chest
+item.DnomaidPants.name=Dnomaid Pants  
+item.DnomaidBoots.name=Dnomaid Boots
+
+tile.Dnomaidore.name=Dnomaid ore
+tile.Dlogore.name=Dlog ore
+tile.Lehnoriore.name=Lehnori ore
+tile.JJayore.name=JJay ore
+tile.Dnomaidblock.name=Dnomaid block
+tile.Dlogblock.name=Dlog block
+tile.Lehnoriblock.name=Lehnori block
+tile.JJayblock.name=JJay block
+
+tile.BlockTCFloor.name=Hyperbolic Time Chamber Floor
+tile.BlockTCPort.name=Hyperbolic Time Chamber Portal
+
+tile.SpacePod01Block.name=Space Pod
+
+item.SpacePod01Item.name=Space Pod
+
+tile.SaibaiHatched.name=Saibaiman Hatched
+
+item.ItemDragonRadar.name=Dragon Radar
+
+tile.BlockNamekDragonBallStone.name=Stone Namek Dragon Block
+item.ItemNamekDragonBlock.name=Namek Dragon Block
+
+tile.BlockDragonBallStone.name=Stone Dragon Block
+
+item.ItemDragonBlock.name=Dragon Block 
+
+tile.BlockOreWrenai.name=Warenai Ore
+tile.BlockNamekGrass.name=Namek Grass
+tile.BlockNamekLog.name=Ajisa Wood
+tile.BlockNamekDirt.name=Lighter Dirt
+tile.BlockNamekLeaves.name=Ajisa Leaves
+tile.BlockKiFire.name=Ki Energy
+tile.BlockNamekStone.name=Basic Wall Stone
+tile.BlockAlienStone.name=Dirty Stone
+tile.BlockAlienCobbleStone.name=Dirty Cobblestone
+tile.BlockHealingPods.name=Medical Liquid
+tile.BlockHealingPodDoor.name=Medical Pod Door
+
+item.ItemWarenai.name=Warenai Crystal
+item.ItemSenzu.name=Senzu Bean
+item.ItemKatana.name=Katana
+item.ItemKatchin.name=Katchin Shard
+item.ItemDinoMeat.name=Dinosaur Meat
+item.ItemDinoMeatCooked.name=Cooked Dinosaur Meat
+
+tile.BlockNamekSapling.name=Ajisa Sapling
+
+item.ItemBraveSword.name=Brave Sword
+item.ItemZSword.name=Z Sword
+item.ItemKatanaHandle.name=Katana Hilt
+item.ItemBraveSwordHandle.name=Brave Sword Hilt
+item.ItemZSwordHandle.name=Z Sword Hilt
+item.ItemKatanaSwordBlade.name=Katana Blade
+item.ItemBraveSwordBlade.name=Brave Sword Blade
+item.ItemZSwordBlade.name=Z Sword Blade
+
+item.ItemAlienTechChipTier1.name=Tech Chip Tier 1
+item.ItemChipTier2.name=Tech Chip Tier 2
+item.ItemChipTier3.name=Tech Chip Tier 3
+
+item.KintounItem.name=Flying Nimbus
+item.KintounBlackItem.name=Dark Flying Nimbus
+
+
+item.YellowScoutera.name=Yellow Scouter Tier 2
+item.RedScoutera.name=Red Scouter Tier 2
+item.PurpleScoutera.name=Purple Scouter Tier 2
+item.BlueScoutera.name=Blue Scouter Tier 2
+item.GreenScoutera.name=Green Scouter Tier 2
+item.PinkScoutera.name=Pink Scouter Tier 2
+item.YellowScouterb.name=Yellow Scouter Tier 3
+item.RedScouterb.name=Red Scouter Tier 3
+item.PurpleScouterb.name=Purple Scouter Tier 3
+item.BlueScouterb.name=Blue Scouter Tier 3
+item.GreenScouterb.name=Green Scouter Tier 3
+item.PinkScouterb.name=Pink Scouter Tier 3
+
+item.YellowScouter.name=Yellow Scouter Tier 1
+item.BattleArmorChest00.name=Battle Armor
+item.BattleArmorLegs00.name=Battle Leggings
+item.BattleArmorBoots00.name=Battle Boots
+
+item.RedScouter.name=Red Scouter Tier 1
+item.BattleArmorChest01.name=Battle Armor
+item.BattleArmorLegs01.name=Battle Leggings
+item.BattleArmorBoots01.name=Battle Boots
+
+item.PurpleScouter.name=Purple Scouter Tier 1
+item.BattleArmorChest02.name=Battle Armor
+item.BattleArmorLegs02.name=Battle Leggings
+item.BattleArmorBoots02.name=Battle Boots
+
+item.BlueScouter.name=Blue Scouter Tier 1
+item.BattleArmorChest03.name=Battle Armor
+item.BattleArmorLegs03.name=Battle Leggings
+item.BattleArmorBoots03.name=Battle Boots
+
+item.GreenScouter.name=Green Scouter Tier 1
+item.BattleArmorChest04.name=Battle Armor
+item.BattleArmorLegs04.name=Battle Leggings
+item.BattleArmorBoots04.name=Battle Boots
+
+item.PinkScouter.name=Pink Scouter Tier 1
+item.BattleArmorChest05.name=Battle Armor
+item.BattleArmorLegs05.name=Battle Leggings
+item.BattleArmorBoots05.name=Battle Boots
+
+tem.BattleArmorChest06.name=Lost Saiyan Battle Armor
+item.BattleArmorLegs06.name=Lost Saiyan Pelt
+item.BattleArmorBoots06.name=Lost Saiyan Battle Boots
+item.BattleArmorChest07.name=Modern Battle Armor
+item.BattleArmorBoots07.name=Modern Battle Boots
+item.BattleArmorChest08.name=Modern Battle Armor (Set 2)
+item.BattleArmorBoots08.name=Modern Battle Boots (Set 2)
+item.BattleArmorChest09.name=Lost Saiyan Battle Armor
+item.BattleArmorLegs09.name=Lost Saiyan Dress
+item.BattleArmorBoots09.name=Lost Saiyan Battle Boots
+
+item.GiFighterTorso1.name=Orange Gi with T-Shirt
+item.GiFighterLeg1.name=Orange Gi Pants
+item.GiFighterBoots1.name=Blue Shoes
+item.GiNamekTorso0.name=Namekian Gi Shirt
+item.GiNamekLeg0.name=Namekian Gi Pants
+item.GiNamekBoots0.name=Namekian Shoes
+item.GiFutureTorso0.name=Future Warrior's Jacket
+item.GiFutureLeg0.name=Future Warrior's Pants
+item.GiFutureBoots0.name=Future Warrior's Shoes
+item.GiFighterTorso2.name=Blue Gi With T-Shirt
+item.GiFighterLeg2.name=Blue Gi Pants
+item.GiFighterBoots2.name=White Boots
+
+item.JinTorso.name=Jin Ryuu's Shirt
+item.JinLeg.name=Jin Ryuu's Pants
+item.JinBoots.name=Jin Ryuu's Boots
+
+item.KameTorso1.name=Orange Gi Tank Top
+item.KameBoots1.name=Black Shoes
+item.GiFighterTorso3.name=Orange Gi with Sleeves
+
+item.c19Head.name=C19 Hat
+item.c20Head.name=C20 Hat
+item.c16Chest.name=C16 Armor
+item.c17Chest.name=C17 Shirt
+item.c18Chest.name=C18 Shirt
+item.c19Chest.name=C19 Vest
+item.c20Chest.name=C20 Vest
+item.darburaChest.name=Darbura Vest
+item.majinbuufatChest.name=Mr. Buu Vest
+item.majinbuuChest.name=Super Buu Bracelets
+item.c16Leg.name=C16 Armor
+item.c17Leg.name=C17 Pants
+item.c18Leg.name=C18 Pants
+item.c19Leg.name=C19 Pants
+item.c20Leg.name=C20 Pants
+item.darburaLeg.name=Darbura Pants
+item.majinbuufatLeg.name=Mr. Buu Pants
+item.majinbuuLeg.name=Super Buu Pants
+item.c16Boots.name=C16 Boots
+item.c17Boots.name=C17 Shoes
+item.c18Boots.name=C18 Shoes
+item.c19Boots.name=C19 Shoes
+item.c20Boots.name=C20 Shoes
+item.darburaBoots.name=Darbura Boots
+item.majinbuufatBoots.name=Mr. Buu Shoes
+item.majinbuuBoots.name=Super Buu Shoes
+
+item.tienHead.name=Tien Gi Headwear
+item.chichiHead.name=Chi Chi Gi Headwear
+item.genblueHead.name=General Blue Headwear
+item.highschoolHead.name=High School Headwear
+item.karingaHead.name=Karinga Tribe Headwear
+item.pilafHead.name=Otherworld Fighter Hat
+item.saiyamanHead.name=Great Saiyaman's Helmet
+item.supkaiHead.name=Supreme Kai Headwear
+item.tienChest.name=Green Sash
+item.chichiChest.name=Purple Top
+item.genblueChest.name=General Blue's Shirt
+item.highschoolChest.name=Orange Star High Shirt & Vest
+item.karingaChest.name=Yardrat Armor
+item.pilafChest.name=Otherworld Fighter Shirt
+item.saiyamanChest.name=Great Saiyaman's Chestpiece
+item.supkaiChest.name=Supreme Kai Vest
+item.blackChest.name=Gray Gi and Black Undershirt
+item.fusiondChest.name=Metamoran Vest
+item.tienLeg.name=Green Gi Pants
+item.chichiLeg.name=Purple Dress
+item.genblueLeg.name=General Blue's Pants
+item.highschoolLeg.name=Orange Star High Pants
+item.karingaLeg.name=Yardrat Pants
+item.pilafLeg.name=Otherworld Fighter Pants
+item.saiyamanLeg.name=Great Saiyaman's Pants
+item.supkaiLeg.name=Supreme Kai Pants
+item.blackLeg.name=Black Pants
+item.fusiondLeg.name=Metamoran Pants
+item.tienBoots.name=Yellow Boots
+item.chichiBoots.name=Purple Shoes
+item.genblueBoots.name=General Blue's Boots
+item.highschoolBoots.name=Orange Star High Shoes
+item.karingaBoots.name=Yardrat Shoes
+item.pilafBoots.name=Otherworld Fighter Shoes
+item.saiyamanBoots.name=Great Saiyaman's Boots
+item.supkaiBoots.name=Supreme Kai Shoes
+item.blackBoots.name=White Boots
+item.fusiondBoots.name=Metamoran Boots
+
+item.brolyChest.name=Legendary Warrior Jewelry
+item.demonclanChest.name=Demon Clan Shirt
+item.herculesChest.name=Hercule Shirt
+item.kingkaiChest.name=Kaioshin Garb
+item.lordslugChest.name=Lord Slug Chest
+item.mrpopoChest.name=Majin Fusion Vest
+item.orintempChest.name=Farmer Shirt
+item.uubChest.name=Uub Robe
+item.videl2Chest.name=Videl Top (#2)
+item.videl3Chest.name=Videl Top (#3)
+item.videlChest.name=Videl Top (#1)
+item.yamchaChest.name=Bandit Warrior Shirt
+item.brolyLeg.name=Legendary Warrior Robes
+item.demonclanLeg.name=Demon Clan Pants
+item.herculesLeg.name=Hercule Pants
+item.kingkaiLeg.name=Kaioshin Pants
+item.lordslugLeg.name=Lord Slug Leggings
+item.mrpopoLeg.name=Majin Fusion Pants
+item.orintempLeg.name=Farmer Pants
+item.uubLeg.name=Uub Pants
+item.videl2Leg.name=Videl Shorts (#2)
+item.videl3Leg.name=Videl Shorts (#3)
+item.videlLeg.name=Videl Shorts (#1)
+item.yamchaLeg.name=Bandit Warrior Pants
+item.brolyBoots.name=Legendary Warrior Boots
+item.demonclanBoots.name=Demon Clan Shoes
+item.herculesBoots.name=Hercule Shoes
+item.kingkaiBoots.name=Kaioshin Shoes
+item.lordslugBoots.name=Lord Slug Boots
+item.mrpopoBoots.name=Majin Fusion Shoes
+item.orintempBoots.name=Farmer Boots
+item.uubBoots.name=Uub Boots
+item.videl2Boots.name=Videl Shoes (#2)
+item.videl3Boots.name=Videl Shoes (#3)
+item.videlBoots.name=Videl Shoes (#1)
+item.yamchaBoots.name=Bandit Warrior Shoes
+item.supkaiblackLeg.name=Dark Supreme Kai Pants
+item.supkaiblackChest.name=Dark Supreme Kai Chest
+item.supkaiblackBoots.name=Dark Supreme Kai Boots
+
+item.tracksuitLeg.name=Tracksuit Pants
+item.tracksuitChest.name=Tracksuit Jacket
+item.tracksuitBoots.name=Tracksuit Shoes
+
+item.gokugtgiChest.name=Blue Gi
+item.gokugtgiLeg.name=Yellow Pants
+item.gokugtgiBoots.name=Wrapped Shoes
+item.gokusChest.name=Whis Gi Shirt
+item.gokusLeg.name=Whis Gi Pants
+item.gokusBoots.name=Whis Gi Shoes
+item.cabbaChest.name=Universe 6 Warrior Shirt
+item.cabbaLeg.name=Universe 6 Warrior Pants
+item.cabbaBoots.name=Universe 6 Warrior Shoes
+item.hitChest.name=Universe 6 Assassin Jacket
+item.hitLeg.name=Universe 6 Assassin Pants
+item.hitBoots.name=Universe 6 Assassin Boots
+item.pridetrooperChest.name=Pride Trooper Shirt
+item.pridetrooperLeg.name=Pride Trooper Pants
+item.pridetrooperBoots.name=Pride Trooper Boots
+item.cauliflaChest.name=Universe 6 Punk Top
+item.cauliflaBoots.name=Universe 6 Punk Shoes
+item.cauliflaLeg.name=Universe 6 Punk Pants
+item.kaleChest.name=Universe 6 Berserker Shirt
+item.kaleLeg.name=Universe 6 Berserker Skirt & Pants
+item.kaleBoots.name=Universe 6 Berserker Boots
+item.vegetasChest.name=Whis Saiyan Armor
+item.vegetasLeg.name=Whis Saiyan Pants
+item.vegetasBoots.name=Whis Saiyan Boots
+item.whisBoots.name=Whis Shoes
+item.whisChest.name=Whis Chestpiece
+item.whisLeg.name=Whis Dress
+
+item.c18sBoots.name=Pink Tracksuit Shoes
+item.c18sChest.name=Pink Tracksuit jacket
+item.c18sLeg.name=Pink Tracksuit Pants
+item.superc17Boots.name=Super 17 Shoes
+item.superc17Chest.name=Super 17 Shirt
+item.superc17Leg.name=Super C17 Jeans
+item.c18-2Boots.name=Stylish Shoes
+item.c18-2Chest.name=Stylish Jacket
+item.c18-2Leg.name=StylishPants
+item.tienbBoots.name=Crane Warrior Shoes
+item.tienbChest.name=Crane Warrior Gi
+item.tienbLeg.name=Crane Warrior Pants
+item.tiensBoots.name=Crane Master Shoes
+item.tiensChest.name=Crane Master Shirt
+item.tiensLeg.name=Crane Master Dress
+item.panBoots.name=Fashionable Shoes
+item.panChest.name=Fashionable Top
+item.panLeg.name=Fashionable Jeans
+item.c17sBoots.name=Park Ranger Shoes
+item.c17sChest.name=Park Ranger Shirt
+item.c17sLeg.name=Park Ranger Pants
+
+item.ItemWarenaiFabric.name=Warenai Fabric
+item.ItemPP.name=Power Pole
+item.ItemSmallClub.name=Small Club
+item.ItemJanembaEssence.name=Janemba's Essence
+item.ItemEvilSpear.name=Evil Spear
+item.ItemDimensionSword.name=Dimension Sword
+
+tile.namekian_throneBlock.name=Namekian Throne
+
+item.ItemWeightShell.name=Shell Weight
+item.ItemWeightShirt.name=T-Shirt Weight
+item.ItemWeightHandLeg.name=Arm and Leg Weights
+item.ItemWeightCape.name=Cape Weight
+item.ItemSaibaiSeed.name=Saibaiman Seed
+
+item.ItemBucketMedLiq.name=Medical Liquid Bucket
+
+item.Sakura_Stick.name=Sakura Stick
+tile.Sakura_Block.name=Sakura Stone
+item.Sakura_Pickaxe.name=Sakura Pickaxe
+item.Sakura_Sword.name=Sakura Sword
+item.Sakura_Axe.name=Sakura Axe
+item.Sakura_Shovel.name=Sakura Shovel
+item.Sakura_Hoe.name=Sakura Hoe
+tile.Sapling.Sakura.name=Sakura Sapling
+tile.Sapling.Mahagony.name=Mahagony Sapling
+tile.Log.Sakura.name=Sakura Log
+tile.Log.Mahagony.name=Mahagony Log
+tile.Leaf.Mahagony.name=Mahagony Leaves
+tile.Leaf.Sakura.name=Sakura Leaves
+tile.Planks.Mahagony.name=Mahagony Planks
+tile.Planks.Sakura.name=Sakura Planks
+item.Mahagony_Stick.name=Mahagony Stick
+item.Mahagony_Pickaxe.name=Mahagony Pickaxe
+item.Mahagony_Sword.name=Mahagony Sword
+item.Mahagony_Axe.name=Mahagony Axe
+item.Mahagony_Shovel.name=Mahagny Shovel
+item.Mahagony_Hoe.name=Mahagony Hoe
+tile.SakuraFence.name=Sakura Fence
+tile.MahagonyFence.name=Mahagony Fence
+item.Sakura_Branch.name=Sakura Branch
+item.Mahagony_Branch.name=Mahagony Branch
+item.Sakura_Hammer.name=Sakura Hammer
+tile.Slab.Sakura.name=Sakura Slab
+tile.Slab.Mahagony.name=Mahagony Slab
+tile.MahagonyStairs.name=Mahagony Stairs
+tile.SakuraStairs.name=Sakura Stairs
+tile.SakuraPaperWall.White.name=White Sakura Paper Wall
+tile.SakuraPaperWall.Lime.name=Lime Sakura Paper Wall
+tile.SakuraPaperWall.Magenta.name=Magenta Sakura Paper Wall
+tile.SakuraPaperWall.Gray.name=Gray Sakura Paper Wall
+tile.SakuraPaperWall.Green.name=Green Sakura Paper Wall
+tile.SakuraPaperWall.Red.name=Red Sakura Paper Wall
+tile.SakuraPaperWall.Black.name=Black Sakura Paper Wall
+tile.SakuraPaperWall.Brown.name=Brown Sakura Paper Wall
+tile.SakuraPaperWall.Pink.name=Pink Sakura Paper Wall
+tile.SakuraPaperWall.Cyan.name=Cyan Sakura Paper Wall
+tile.SakuraPaperWall.Purple.name=Purple Sakura Paper Wall
+tile.SakuraPaperWall.Blue.name=Blue Sakura Paper Wall
+tile.SakuraPaperWall.Yellow.name=Yellow Sakura Paper Wall
+tile.SakuraPaperWall.Orange.name=Orange Sakura Paper Wall
+tile.SakuraPaperWall.Light_Gray.name=Light Gray Sakura Paper Wall
+tile.SakuraPaperWall.Light_Blue.name=Light Blue Sakura Paper Wall
+tile.MahagonyPaperWall.White.name=White Mahagony Paper Wall
+tile.MahagonyPaperWall.Lime.name=Lime Mahagony Paper Wall
+tile.MahagonyPaperWall.Magenta.name=Magenta Mahagony Paper Wall
+tile.MahagonyPaperWall.Gray.name=Gray Mahagony Paper Wall
+tile.MahagonyPaperWall.Green.name=Green Mahagony Paper Wall
+tile.MahagonyPaperWall.Red.name=Red Mahagony Paper Wall
+tile.MahagonyPaperWall.Black.name=Black Mahagony Paper Wall
+tile.MahagonyPaperWall.Brown.name=Brown Mahagony Paper Wall
+tile.MahagonyPaperWall.Pink.name=Pink Mahagony Paper Wall
+tile.MahagonyPaperWall.Cyan.name=Cyan Mahagony Paper Wall
+tile.MahagonyPaperWall.Purple.name=Purple Mahagony Paper Wall
+tile.MahagonyPaperWall.Blue.name=Blue Mahagony Paper Wall
+tile.MahagonyPaperWall.Yellow.name=Yellow Mahagony Paper Wall
+tile.MahagonyPaperWall.Orange.name=Orange Mahagony Paper Wall
+tile.MahagonyPaperWall.Light_Gray.name=Light Gray Mahagony Paper Wall
+tile.MahagonyPaperWall.Light_Blue.name=Light Blue Mahagony Paper Wall
+tile.SakFencGate.name=Sakura Fence Gate
+tile.MahFencGate.name=Mahagony Fence Gate
+tile.Planks.Maple.name=Maple Planks
+tile.MapleStairs.name=Maple Stairs
+tile.Slab.Maple.name=Maple Slab
+tile.MapFencGate.name=Maple Fence Gate
+tile.Log.Maple.name=Maple Log
+tile.Maples.Maple.name=Maple Leaves
+tile.Sapling.Maple.name=Maple Sapling
+tile.MapleFence.name=Maple Fence
+item.Maple_Stick.name=Maple Stick
+item.Maple_Hoe.name=Maple Hoe
+item.Maple_Sword.name=Maple Sword
+item.Maple_Pickaxe.name=Maple Pickaxe
+item.Maple_Axe.name=Maple Axe
+item.Maple_Shovel.name=Maple Shovel
+
+item.ItemWeightHeavySuit.name=Heavy Suit Weight
