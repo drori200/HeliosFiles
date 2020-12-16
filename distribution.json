@@ -444,9 +444,9 @@
           "type": "File",
           "artifact": {
             "size": 2673,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/TestingThis-1.7.10/files/BensConfig_JRMCore.cfg",
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/TestingThis-1.7.10/files/config/BensConfig_JRMCore.cfg",
             "MD5": "bbf0fc4d6823101f836b37b27c1a5ecb",
-            "path": "BensConfig_JRMCore.cfg"
+            "path": "config/BensConfig_JRMCore.cfg"
           }
         },
         {
@@ -455,9 +455,9 @@
           "type": "File",
           "artifact": {
             "size": 2870,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/TestingThis-1.7.10/files/CustomMainMenu/mainmenu.json",
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/TestingThis-1.7.10/files/config/CustomMainMenu/mainmenu.json",
             "MD5": "ed48d2a128224ce61006640f8c367084",
-            "path": "CustomMainMenu/mainmenu.json"
+            "path": "config/CustomMainMenu/mainmenu.json"
           }
         },
         {
