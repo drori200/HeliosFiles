@@ -13,7 +13,7 @@
       "description": "DBC Alpha Reborn Powered By HavenCore",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/AlphaReborn-1.7.10/AR.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "alphareborn.my.pebble.host",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
