@@ -723,9 +723,9 @@
           "name": "mainmenu.json",
           "type": "File",
           "artifact": {
-            "size": 2870,
+            "size": 4509,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/files/config/CustomMainMenu/mainmenu.json",
-            "MD5": "ed48d2a128224ce61006640f8c367084",
+            "MD5": "93e022f85d70639d1df7096767ff3da1",
             "path": "config/CustomMainMenu/mainmenu.json"
           }
         },

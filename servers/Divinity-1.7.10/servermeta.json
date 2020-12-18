@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "DBC Divinity (1.7.10)",
     "description": "DBC Divinity Powered By HaveCore",
-    "address": "localhost:25565",
+    "address": "dbc.dbdivinity.com",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
