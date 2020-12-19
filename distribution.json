@@ -213,7 +213,7 @@
       "description": "DBC Divinity Powered By HaveCore",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/Divinity_Logo.png",
       "version": "1.0.0",
-      "address": "172.241.24.145:25565",
+      "address": "dbc.dbdivinity.com",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
