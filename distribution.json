@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "788530816740753459",
     "smallImageText": "Dragon Ball Z",
@@ -213,7 +213,7 @@
       "description": "DBC Divinity Powered By HaveCore",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/Divinity_Logo.png",
       "version": "1.0.0",
-      "address": "dbc.dbdivinity.com:40053",
+      "address": "dbc.dbdivinity.com",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
