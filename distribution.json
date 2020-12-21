@@ -398,6 +398,15 @@
               "name": "Minecraft Forge (commons-lang3)",
               "type": "Library",
               "artifact": {
+                "size": 412739,
+                "MD5": "3128bf75a2549ebe38663401191bacab",
+                "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/repo/lib/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+              }
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "Divinity-1.7.10",
       "name": "DBC Divinity (1.7.10)",
