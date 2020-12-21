@@ -10,7 +10,7 @@
     {
       "id": "AlphaReborn-1.7.10",
       "name": "DBC Alpha Reborn (1.7.10)",
-      "description": "DBC Alpha Reborn Powered By HavenCore",
+      "description": "DBC Alpha Reborn | HavenCore Network Official Server",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/AlphaReborn-1.7.10/AR.png",
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -210,7 +210,7 @@
     {
       "id": "Colossus-1.7.10",
       "name": "DBC Colossus (1.7.10)",
-      "description": "DBC Colossus powered by HavenCore",
+      "description": "DBC Colossus | HavenCore Network Official Server",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Colossus-1.7.10/Colossuspng.png",
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -410,7 +410,7 @@
     {
       "id": "Divinity-1.7.10",
       "name": "DBC Divinity (1.7.10)",
-      "description": "DBC Divinity Powered By HaveCore",
+      "description": "DBC Divinity | Powered By HavenCore",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/Divinity_Logo.png",
       "version": "1.0.0",
       "address": "dbc.dbdivinity.com",
@@ -1143,7 +1143,7 @@
     {
       "id": "Fusions-1.7.10",
       "name": "Dragon Block C Fusions (1.7.10)",
-      "description": "DBC Fusions Powered By HavenCore",
+      "description": "DBC Fusions | HavenCore Network Official Server",
       "icon": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/pack.png",
       "version": "1.0.0",
       "address": "51.161.76.173:25650",
