@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>The HavenCore Network</title>
+    <link>https://www.havencorenetwork.com/</link>
+    <description>This is the description</description>
+    <language>en-us</language>
+    <copyright>2020</copyright>
+    <image>
+      <title>The HavenCore Network</title>
+      <link>https://www.havencorenetwork.com/</link>
+      <url>https://raw.githubusercontent.com/drori200/HavenCoreNetworkLauncher/master/app/assets/images/LoadingSeal.png</url>
+      <width>783</width>
+      <height>727</height>
+    </image>
+    <item>
+      <title>The Launcher</title>
+      <pubDate>Fri, 1 Jan 2021 19:06:13 +0200</pubDate>
+      <category>Launcher</category>
+      <description><![CDATA[The description]]></description>
+    </item>
+  </channel>
+</rss>
