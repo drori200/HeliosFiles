@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "",
+  "rss": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/TestRSS.rss",
   "discord": {
     "clientId": "788530816740753459",
     "smallImageText": "Dragon Ball Z",
