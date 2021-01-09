@@ -1885,9 +1885,9 @@
           "name": "HavenCore Distribution for DBC Fusions",
           "type": "ForgeMod",
           "artifact": {
-            "size": 14529702,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/HavenCoreFusionsClient.jar",
-            "MD5": "96c66d440fbb75f00ae9f3b83edd2f11"
+            "size": 38790310,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/HavenCore_-_Fusions_Client_1-8-2021.jar",
+            "MD5": "2b8bdc3e169d6d5b6c5152ebc6c6a07c"
           }
         },
         {
@@ -1997,13 +1997,13 @@
           }
         },
         {
-          "id": "generated.forgemod:zjrmcore:v1.3.28_-_Edit_-_Copy@jar",
+          "id": "generated.forgemod:zjrmcore:v1.3.28_-_Edit@jar",
           "name": "ZJRMCore",
           "type": "ForgeMod",
           "artifact": {
             "size": 1410898,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/ZJRMCore-v1.3.28_-_Edit_-_Copy.jar",
-            "MD5": "94eb9e06afbe0cf495fd34fca2b980d0"
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/ZJRMCore-v1.3.28_-_Edit.jar",
+            "MD5": "53185283b218e4e7af8b65b6a687c57f"
           }
         },
         {
