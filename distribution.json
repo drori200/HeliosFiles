@@ -1895,9 +1895,9 @@
           "name": "JayCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21280854,
+            "size": 21756415,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/JayCoreClient.jar",
-            "MD5": "1ffebf7163112a06d34c2c7fec2e4382"
+            "MD5": "1d4843ae4038802553eb75bc943c67c4"
           }
         },
         {
