@@ -1806,7 +1806,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1966802,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/Armourers-Workshop-1.7.10-0.48.2.jar",
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/Armourers-Workshop.jar",
             "MD5": "7afea4bdf70cea936227ea3e6c4e77ae"
           }
         },
