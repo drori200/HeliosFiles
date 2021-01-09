@@ -1,23 +1,25 @@
 {
-    "images": {
-        "title": {
-            "image" : "dbz:Fusions.png",
-            "posX" : -405,
-            "posY" : 20,
-            "width" : 280,
-            "height" : 120,
-            "alignment" : "top_right"
+    "images":
+    {
+        "title":
+        {
+            "image" : "dbz:fusions.png",
+            "posX" : -137,
+            "posY" : 10,
+            "width" : 270,
+            "height" : 100,
+            "alignment" : "top_center"
         }
     },
     
     "buttons":
     {
-        
-        "servers":
+        "singleplayer":
         {
-            "text" : "Official Server",
+            "text" : "\u00A7eOfficial Server",
+            "tooltip" : "Come join and play with us on the server! :D",
             "posX" : -100,
-            "posY" : 75,
+            "posY" : 48,
             "width" : 200,
             "height" : 20,
             "action" : 
@@ -27,11 +29,12 @@
             }
         },
         
-        "discord":
+        "Discord":
         {
-            "text" : "Discord",
+            "text" : "\u00A79Discord",
+            "tooltip" : "Come talk with us!",
             "posX" : -100,
-            "posY" : 102,
+            "posY" : 72,
             "width" : 200,
             "height" : 20,
             "action" : 
@@ -39,13 +42,14 @@
 				"type" : "openLink",
 				"link" : "https://discord.gg/MK7YPMW"
             }
-        },         
-		
-        "webstore":
+        },
+        
+        "web":
         {
-            "text" : "Website",
+            "text" : "\u00A7bWebsite",
+            "tooltip" : "Wanna support us ? ;)",
             "posX" : -100,
-            "posY" : 126,
+            "posY" : 96,
             "width" : 200,
             "height" : 20,
             "action" : 
@@ -54,28 +58,14 @@
 				"link" : "https://www.havencorenetwork.com/"
             }
         },
-		
-        "mods":
+            
+        "options":
         {
-            "text" : "Mods",
-            "posX" : -92,
-            "posY" : 173,
-            "width" : 90,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "mods"
-            }
-        },
-		
-
-	"options":
-        {
-            "text" : "menu.options",
+            "text" : "\u00A77Settings",
+            "tooltip" : "Fix your controls :3",
             "posX" : -100,
-            "posY" : 149,
-            "width" : 200,
+            "posY" : 132,
+            "width" : 98,
             "height" : 20,
             "action" : 
             {
@@ -84,46 +74,51 @@
             }
         },
         
-        "quit":
+        "Leave":
         {
-            "text" : "Quit",
+            "text" : "\u00A7cQuit",
+            "tooltip" : "Come back very soon! :(",
             "posX" : 2,
-            "posY" : 173,
-            "width" : 90,
+            "posY" : 132,
+            "width" : 98,
             "height" : 20,
             "action" : 
             {
                 "type" : "quit"
             }
-        }	
-    },
+  	  }
+        },
+        
+
+    
     "texts":
     {
         "mojang":
         {
-            "text" : "Welcome to DBC Fusions :D!",
-            "posX" : -130,
+            "text" : "",
+            "posX" : -197,
             "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_right"
-        }
-			
-    },
+	   }
+        },
+        
+
     
     "other":
     {
-        "":
+        "splash-text":
         {
             "posX" : 90,
             "posY" : 70,
             "color" : -256,
             "alignment" : "top_center",
-            "file" : "texts/splashes.txt"
+            "texts" : ""
         },
         
         "background":
         {
-            "image" : "dbz:background.jpg",
+            "image" : "dbz:bg.jpg",
             "animate" : false,
             "blur" : false,
             "gradient" : true
