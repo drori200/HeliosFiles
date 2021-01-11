@@ -1885,9 +1885,9 @@
           "name": "HavenCore Distribution for DBC Fusions",
           "type": "ForgeMod",
           "artifact": {
-            "size": 38790310,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/HavenCore_-_Fusions_Client_1-8-2021.jar",
-            "MD5": "2b8bdc3e169d6d5b6c5152ebc6c6a07c"
+            "size": 38790724,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/HavenCore_-_Fusions_Client_1-10-2021.jar",
+            "MD5": "ebc4b443c65189c3105490d41ea69cd4"
           }
         },
         {
