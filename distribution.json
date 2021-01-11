@@ -2237,17 +2237,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 2974,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/options.txt",
-            "MD5": "dbdf8f41f13b17736d7de6b61b3216ee",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "DBC.png",
           "name": "DBC.png",
           "type": "File",
