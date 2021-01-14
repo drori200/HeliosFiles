@@ -2194,14 +2194,14 @@
           }
         },
         {
-          "id": "Armourers-Workshop-1.7.10-0.48.5.jar",
-          "name": "Armourers-Workshop-1.7.10-0.48.5.jar",
+          "id": "Armourers-Workshop-1.7.10-0.48.2(1).jar",
+          "name": "Armourers-Workshop-1.7.10-0.48.2(1).jar",
           "type": "File",
           "artifact": {
-            "size": 2089120,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/mods/Armourers-Workshop-1.7.10-0.48.5.jar",
-            "MD5": "19885ea7a6b598516b4e7e467e32b2bb",
-            "path": "mods/Armourers-Workshop-1.7.10-0.48.5.jar"
+            "size": 1966802,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/mods/Armourers-Workshop-1.7.10-0.48.2(1).jar",
+            "MD5": "7afea4bdf70cea936227ea3e6c4e77ae",
+            "path": "mods/Armourers-Workshop-1.7.10-0.48.2(1).jar"
           }
         },
         {
