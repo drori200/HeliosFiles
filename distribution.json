@@ -2165,9 +2165,9 @@
           "name": "BensConfig_JRMCore.cfg",
           "type": "File",
           "artifact": {
-            "size": 2718,
+            "size": 2673,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/config/BensConfig_JRMCore.cfg",
-            "MD5": "81ad337a9c326e24de46553c0cb6a30d",
+            "MD5": "bbf0fc4d6823101f836b37b27c1a5ecb",
             "path": "config/BensConfig_JRMCore.cfg"
           }
         },
@@ -2176,9 +2176,9 @@
           "name": "mainmenu.json",
           "type": "File",
           "artifact": {
-            "size": 2865,
+            "size": 2866,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/config/CustomMainMenu/mainmenu.json",
-            "MD5": "7913e7a741d93a3234fea10bb707754e",
+            "MD5": "ff30952352d895cae1ef9ae98289ab2c",
             "path": "config/CustomMainMenu/mainmenu.json"
           }
         },
@@ -7896,9 +7896,9 @@
           "name": "ar_SA.lang",
           "type": "File",
           "artifact": {
-            "size": 22846,
+            "size": 22208,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/ar_SA.lang",
-            "MD5": "edb30bdb5fb4f1243f81e5fd55546022",
+            "MD5": "4ff2e0344564485d89e60b5e11c624d0",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/ar_SA.lang"
           }
         },
@@ -7907,9 +7907,9 @@
           "name": "da_DK.lang",
           "type": "File",
           "artifact": {
-            "size": 3613,
+            "size": 2503,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/da_DK.lang",
-            "MD5": "7b728c944e2684a2ee2b40db7b5295d5",
+            "MD5": "ae6c35733ae004be750917a188ed53df",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/da_DK.lang"
           }
         },
@@ -7918,9 +7918,9 @@
           "name": "de_DE.lang",
           "type": "File",
           "artifact": {
-            "size": 23274,
+            "size": 22695,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/de_DE.lang",
-            "MD5": "6cf1da1ca45dc1ca6f435d4bceaf5a60",
+            "MD5": "8ef0fde5615e7f4bff34a00a05df356f",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/de_DE.lang"
           }
         },
@@ -7929,9 +7929,9 @@
           "name": "el_GR.lang",
           "type": "File",
           "artifact": {
-            "size": 27753,
+            "size": 26811,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/el_GR.lang",
-            "MD5": "01a0310415906eccc3b23fe077e1647d",
+            "MD5": "2f1acd90e36e0d0645f720548391835c",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/el_GR.lang"
           }
         },
@@ -7940,9 +7940,9 @@
           "name": "en_US.lang",
           "type": "File",
           "artifact": {
-            "size": 79862,
+            "size": 78315,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/en_US.lang",
-            "MD5": "4c230dd5340893d9ef94c0b6a366a9aa",
+            "MD5": "0ff02b995a193857a9b731e82c7beaa1",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/en_US.lang"
           }
         },
@@ -7951,9 +7951,9 @@
           "name": "en_US.lang.bak",
           "type": "File",
           "artifact": {
-            "size": 54166,
+            "size": 53057,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/en_US.lang.bak",
-            "MD5": "078ebe21ec503649a80a186d73a4a134",
+            "MD5": "49c2d1443870ce5e7a6c011b18728b7c",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/en_US.lang.bak"
           }
         },
@@ -7962,9 +7962,9 @@
           "name": "es_ES.lang",
           "type": "File",
           "artifact": {
-            "size": 48353,
+            "size": 47387,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/es_ES.lang",
-            "MD5": "34e0e1a8f98f43957160985645ec5086",
+            "MD5": "34b3ebf3e05515ba1de7f3f152ab7897",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/es_ES.lang"
           }
         },
@@ -7984,9 +7984,9 @@
           "name": "he_IL.lang",
           "type": "File",
           "artifact": {
-            "size": 17674,
+            "size": 17036,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/he_IL.lang",
-            "MD5": "3126bdbd5b3334dddba1a3f69f67ee76",
+            "MD5": "d01bb958f5db3286b6f0e8a13775a449",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/he_IL.lang"
           }
         },
@@ -7995,9 +7995,9 @@
           "name": "hu_HU.lang",
           "type": "File",
           "artifact": {
-            "size": 15059,
+            "size": 14229,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/hu_HU.lang",
-            "MD5": "21377b15d500c18776ab18f5de0d7aaa",
+            "MD5": "f6d21f3fe13c2515e5ef07b17ee1d55d",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/hu_HU.lang"
           }
         },
@@ -8006,9 +8006,9 @@
           "name": "it_IT.lang",
           "type": "File",
           "artifact": {
-            "size": 4717,
+            "size": 3614,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/it_IT.lang",
-            "MD5": "dac64ee979957635fd32616b3456730f",
+            "MD5": "3df697578e680002795808479f9a8b69",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/it_IT.lang"
           }
         },
@@ -8017,9 +8017,9 @@
           "name": "pl_PL.lang",
           "type": "File",
           "artifact": {
-            "size": 37098,
+            "size": 36356,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/pl_PL.lang",
-            "MD5": "ace7a6c74f462ed05b21680926490609",
+            "MD5": "60ca2a9950f3cb59885bcbd2a61ecfed",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/pl_PL.lang"
           }
         },
@@ -8028,9 +8028,9 @@
           "name": "pt_PT.lang",
           "type": "File",
           "artifact": {
-            "size": 32234,
+            "size": 31599,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/pt_PT.lang",
-            "MD5": "efdc7527ddf4e0f124a7ccfe4ae29c0b",
+            "MD5": "8c41d38996c6d3232adf9e8c95e48e79",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/pt_PT.lang"
           }
         },
@@ -8039,9 +8039,9 @@
           "name": "zh_CN.lang",
           "type": "File",
           "artifact": {
-            "size": 45830,
+            "size": 44870,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/lang/zh_CN.lang",
-            "MD5": "0c84e302e95618762d12bbaca7926e4c",
+            "MD5": "77886695e84ac3320b3e2051449b19e1",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/lang/zh_CN.lang"
           }
         },
@@ -14595,9 +14595,9 @@
           "name": "item.ItemDragonBlock.png.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 23,
+            "size": 21,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/textures/items/item.ItemDragonBlock.png.mcmeta",
-            "MD5": "593b64e0db05feb56bf74272b5a3d6f6",
+            "MD5": "dcd657fb48e0b358ade4c30bf6804f09",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/textures/items/item.ItemDragonBlock.png.mcmeta"
           }
         },
@@ -14683,9 +14683,9 @@
           "name": "item.ItemNamekDragonBlock.png.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 23,
+            "size": 21,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuudragonbc/textures/items/item.ItemNamekDragonBlock.png.mcmeta",
-            "MD5": "593b64e0db05feb56bf74272b5a3d6f6",
+            "MD5": "dcd657fb48e0b358ade4c30bf6804f09",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuudragonbc/textures/items/item.ItemNamekDragonBlock.png.mcmeta"
           }
         },
@@ -18907,9 +18907,9 @@
           "name": "en_US.lang",
           "type": "File",
           "artifact": {
-            "size": 52622,
+            "size": 51587,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuumodscore/lang/en_US.lang",
-            "MD5": "40c89967e37c39492aa5bfb86bd2ae18",
+            "MD5": "379a6343ed04c5dcc57ca787a522cb22",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuumodscore/lang/en_US.lang"
           }
         },
@@ -18918,9 +18918,9 @@
           "name": "en_US.lang.bak",
           "type": "File",
           "artifact": {
-            "size": 21409,
+            "size": 20890,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuumodscore/lang/en_US.lang.bak",
-            "MD5": "181bfd7c816f26c168fa946bd5bf3bf2",
+            "MD5": "b87829e8fd1acea5fe900a34199caf5b",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuumodscore/lang/en_US.lang.bak"
           }
         },
@@ -18929,9 +18929,9 @@
           "name": "es_ES.lang",
           "type": "File",
           "artifact": {
-            "size": 17565,
+            "size": 17145,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuumodscore/lang/es_ES.lang",
-            "MD5": "d62ce1ea95540f3d7b205a17c961eb41",
+            "MD5": "91a2bcba8fec53226fb4841c04ab277f",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuumodscore/lang/es_ES.lang"
           }
         },
@@ -18940,9 +18940,9 @@
           "name": "fr_FR.lang",
           "type": "File",
           "artifact": {
-            "size": 16677,
+            "size": 16157,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuumodscore/lang/fr_FR.lang",
-            "MD5": "545dc7ac6aed5b14ef115330dbcab5bd",
+            "MD5": "cbcfe647abcfb45bf2c65559385931ae",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuumodscore/lang/fr_FR.lang"
           }
         },
@@ -18951,9 +18951,9 @@
           "name": "hu_HU.lang",
           "type": "File",
           "artifact": {
-            "size": 877,
+            "size": 457,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuumodscore/lang/hu_HU.lang",
-            "MD5": "8aecbf82754e6f55907bdc3d3cf9429d",
+            "MD5": "eadb9820a35f2b56493875e26be31b0a",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuumodscore/lang/hu_HU.lang"
           }
         },
@@ -18962,9 +18962,9 @@
           "name": "pt_PT.lang",
           "type": "File",
           "artifact": {
-            "size": 8563,
+            "size": 8331,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuumodscore/lang/pt_PT.lang",
-            "MD5": "c0fe236f91f67c428f42482ebe731b70",
+            "MD5": "8aeaa4e03f1fa97bfeee1d29b12589f6",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuumodscore/lang/pt_PT.lang"
           }
         },
@@ -18973,9 +18973,9 @@
           "name": "zh_CN.lang",
           "type": "File",
           "artifact": {
-            "size": 19329,
+            "size": 18831,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/jinryuumodscore/lang/zh_CN.lang",
-            "MD5": "6d4958831d0c4dfb8c7971adbc27c423",
+            "MD5": "184b1b9ec827e245abd985b352de663b",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/jinryuumodscore/lang/zh_CN.lang"
           }
         },
@@ -20744,9 +20744,9 @@
           "name": "en_US.xml",
           "type": "File",
           "artifact": {
-            "size": 33908,
+            "size": 33377,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/assets/minecraft/lang/en_US.xml",
-            "MD5": "7566bbb467b0724b21c4a40ee395dad8",
+            "MD5": "57905bb63bed49bca78506e2bb0b9cc7",
             "path": "resourcepacks/DBC Fusions Texture Pack/assets/minecraft/lang/en_US.xml"
           }
         },
@@ -25287,9 +25287,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 112,
+            "size": 107,
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resourcepacks/DBC%20Fusions%20Texture%20Pack/pack.mcmeta",
-            "MD5": "2869f2a7e48bdc46fe0e18089e42e064",
+            "MD5": "1979a0866ac107051b764bb4cf494e1a",
             "path": "resourcepacks/DBC Fusions Texture Pack/pack.mcmeta"
           }
         },
@@ -25324,6 +25324,17 @@
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resources/dbz/bg.jpg",
             "MD5": "f9bb5a3de7e3ff84f6b858637a713267",
             "path": "resources/dbz/bg.jpg"
+          }
+        },
+        {
+          "id": "bg2.jpg",
+          "name": "bg2.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 711144,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/resources/dbz/bg2.jpg",
+            "MD5": "1757e86b86c591150bff67aed621ce47",
+            "path": "resources/dbz/bg2.jpg"
           }
         },
         {
