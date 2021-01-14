@@ -118,7 +118,7 @@
         
         "background":
         {
-            "image" : "dbz:bg.jpg",
+            "image" : "dbz:bg2.jpg",
             "animate" : false,
             "blur" : false,
             "gradient" : true
