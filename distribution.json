@@ -934,33 +934,33 @@
           }
         },
         {
-          "id": "generated.forgemod:adragonblockc:v1.4.71@jar",
+          "id": "generated.forgemod:adragonblockc:v1.4.72@jar",
           "name": "ADragonBlockC",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11277882,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/ADragonBlockC-v1.4.71.jar",
-            "MD5": "271a501b633854dcde93e68f241750d6"
+            "size": 12346795,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/ADragonBlockC-v1.4.72.jar",
+            "MD5": "560b81db9e6595839ce94228debb3d91"
           }
         },
         {
-          "id": "generated.forgemod:ajbra:Client-v1.6.44@jar",
+          "id": "generated.forgemod:ajbra:Client-v1.6.46@jar",
           "name": "AJBRA",
           "type": "ForgeMod",
           "artifact": {
-            "size": 125276,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/AJBRA-Client-v1.6.44.jar",
-            "MD5": "417be993ca716521b20d628147c2d596"
+            "size": 125832,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/AJBRA-Client-v1.6.46.jar",
+            "MD5": "4536e44670faceaf147c3fd1b8b8ccc2"
           }
         },
         {
-          "id": "generated.forgemod:ajrmcore:v1.3.31@jar",
+          "id": "generated.forgemod:ajrmcore:v1.3.33@jar",
           "name": "AJRMCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1295540,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/AJRMCore-v1.3.31.jar",
-            "MD5": "46ddf122850657ac6faae81951d710ce"
+            "size": 1768590,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/AJRMCore-v1.3.33.jar",
+            "MD5": "157e5cf3c5d10b1baf01ff1c04481742"
           }
         },
         {
@@ -1084,6 +1084,16 @@
           }
         },
         {
+          "id": "generated.forgemod:havencore_:1.0@jar",
+          "name": "HavenCore_",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9519402,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/HavenCore_-_Divinity_Client_2-6-21_vGuiScale.jar",
+            "MD5": "6f6ddc7395e33dd75999993c7a8835eb"
+          }
+        },
+        {
           "id": "generated.forgemod:legends mod v0.1:0.0.0@jar",
           "name": "Legends Mod v0.1",
           "type": "ForgeMod",
@@ -1148,19 +1158,19 @@
           "name": "TMKnight Addon",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7289035,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/tmknightaddon-4.2.2b.jar",
-            "MD5": "2e1fb2af37761db264f84dd6818c1b11"
+            "size": 7298570,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/tmknightaddon-4.3.0d.jar",
+            "MD5": "3a43a6304399fb1d2b0e192e98513a14"
           }
         },
         {
-          "id": "generated.forgemod:tmknightaddonbridge:0.4.1a@jar",
+          "id": "generated.forgemod:tmknightaddonbridge:0.5.0c@jar",
           "name": "Tmknightaddonbridge",
           "type": "ForgeMod",
           "artifact": {
-            "size": 285474,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/tmknightaddonbridge-0.4.1a.jar",
-            "MD5": "deb772c5bf6e8884992d1022c85777c2"
+            "size": 284475,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Divinity-1.7.10/forgemods/required/tmknightaddonbridge-0.5.0c.jar",
+            "MD5": "83032e680afe811891dd3abf70084486"
           }
         },
         {
@@ -1801,6 +1811,16 @@
           ]
         },
         {
+          "id": "generated.forgemod:armourersWorkshop:1.7.10-0.48.5@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2089120,
+            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/forgemods/required/Armourers-Workshop-1.7.10-0.48.5.jar",
+            "MD5": "19885ea7a6b598516b4e7e467e32b2bb"
+          }
+        },
+        {
           "id": "generated.forgemod:barrierblock:1.7.10-0.3@jar",
           "name": "BarrierBlock",
           "type": "ForgeMod",
@@ -2191,17 +2211,6 @@
             "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar",
             "MD5": "07fd1a4d8337cca200d871e25426705d",
             "path": "mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar"
-          }
-        },
-        {
-          "id": "Armourers-Workshop-1.7.10-0.48.5.jar",
-          "name": "Armourers-Workshop-1.7.10-0.48.5.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2089120,
-            "url": "https://raw.githubusercontent.com/drori200/HeliosFiles/master/servers/Fusions-1.7.10/files/mods/Armourers-Workshop-1.7.10-0.48.5.jar",
-            "MD5": "19885ea7a6b598516b4e7e467e32b2bb",
-            "path": "mods/Armourers-Workshop-1.7.10-0.48.5.jar"
           }
         },
         {
